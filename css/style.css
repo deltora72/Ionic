@@ -92,13 +92,14 @@ span.state-title {
     display: block;
     position: relative;
     float: left;
-    width: 33.33%;
-    padding: 2%;
+    width: 100%;
+    padding: 1%;
     height: auto;
     min-height: 40px;
 }
 .bus-type-label {
-    display: block;
+    display: flex;
+    flex-flow: row nowrap;
     position: relative;
     color: #333;
     font-size: 15px;
@@ -126,11 +127,12 @@ span.state-title {
 #modal-return {
     float: left;
     font-size: 26px;
+    color: #fff;
 }
-.results-card .item-divider {
+.results-card .results-divider {
     font-family: "yekan";
     font-size: 16px;
-    display: block;
+    display: none;
     text-align: center;
     color: #fff;
     background-color: #383838;
@@ -138,17 +140,20 @@ span.state-title {
     padding: 0px 0px 0px 0px;
 }
 .bus-image {
-    display: block;
-    margin: 5px auto;
-    width: 100%;
-    max-width: 100px;
+    display: inline-block;
+    margin: 10px 15px;
+    width: 50%;
+    max-width: 210px;
     position: relative;
     height: auto;
     min-height: 100px;
+    float: right;
 }
 .item-text-wrap {
     direction: rtl;
     padding: 10px 5px;
+    width: 52%;
+    float: left;
 }
 .city-select-label {
     display: block;
@@ -156,7 +161,7 @@ span.state-title {
     font-size: 16px;
     text-align: center;
     background-color: #F6C92B;
-    margin: 10px 5px;
+    margin: 10px 0px;
     border-radius: 5px;
 }
 /*------------------------bus results section divider ------------------------*/
@@ -170,18 +175,33 @@ span.state-title {
     color: #333;
     float: right;
     word-spacing: 0px;
+    font-size: 14px;
+    direction: ltr;
+    flex-grow: 1;
+}
+.bus-type-item {
+    display: block;
+    position: relative;
+    float: left;
+    width: 100%;
+    padding: 2%;
+    height: auto;
+    min-height: 40px;
 }
 .bus-type-label .ion-android-bus, .bus-type-label .ion-map, .bus-type-label .ion-clock {
     float: right;
     font-size: 26px;
     margin: 0px 5px 0px 10px;
     display: inline-block;
+    flex-grow: 0;
 }
 .bus-price {
     float: left;
     margin: 10px 0px 10px 5px;
     display: inline-block;
     padding: 0px 0px 0px 0px;
+    flex-grow: 11;
+    text-align: left;
 }
 .bus-distance {
     float: left;
@@ -190,11 +210,80 @@ span.state-title {
     padding: 0px 0px 0px 0px;  
     font-size: 16px;
     direction: ltr;
+    flex-grow: 11;
+    text-align: left;
 }
-
+/*-----------------------Menu styles------------------------*/
+[nav-bar-transition="ios"] [nav-bar="active"] .bar, [nav-bar-transition="ios"] [nav-bar="entering"] .bar {
+    background: inherit;
+}
+#main-menu {
+    direction: rtl;
+}
+.main-menu-icon {
+    font-size: 28px;
+    padding: 0px 5px;
+    margin: 0px 5px; 
+}
+.item-complex > a.item-content {
+    padding: 0px;
+}
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, i, u, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, fieldset, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+    vertical-align: middle !important; 
+}
+.main-menu-item {
+    padding: 15px 10px 15px 10px;
+}
+.main-menu-item-text {
+    display: inline-block;
+    position: relative;
+    font-size: 16px;
+    padding: 5px 0px;
+}
 /*------------------------Tablets-------------------------*/
-/*---------------768px to 1024px--------------------------*/
-@media (min-width: 568px) and (max-width: 1024px) {
+/*---------------680px to 950px--------------------------*/
+@media (min-width: 768px) {
+    
+}
+/*------------------------Tablets-------------------------*/
+/*---------------680px to 950px--------------------------*/
+@media (min-width: 680px) and (max-width: 950px) {
+    
+.results-card .results-divider {
+    display: block;
+}
+.item-text-wrap {
+    width: 100%;
+}
+.bus-type-item {
+    display: block;
+    position: relative;
+    float: left;
+    width: 100%;
+    padding: 5px 0px;
+    height: auto;
+    min-height: 40px;
+}
+#bus-result-container {
+    position: relative;
+    width: 100%;
+    padding: 2%;
+    list-style-type: none;
+} 
+.bus-image {
+    display: block;
+    margin: 5px auto 10px auto;
+    width: 100%;
+    max-width: 100px;
+    position: relative;
+    height: auto;
+    float: none;
+}
+    
+}
+/*------------------------Tablets-------------------------*/
+/*---------------568px to 679px--------------------------*/
+@media (min-width: 568px) and (max-width: 679px) {
     
 .bus-type-item {
     display: block;
@@ -210,20 +299,30 @@ span.state-title {
     width: 100%;
     padding: 2%;
     list-style-type: none;
+} 
+.results-card .results-divider {
+    display: block;
 }
     
 }
 /*------------------------Tablets-------------------------*/
-/*---------------768px to 1024px--------------------------*/
+/*---------------max-width: 567px--------------------------*/
 @media (max-width: 567px) {
 
-.responsive-sm .bus-image {
+.bus-image {
     display: block;
     margin: 5px auto 10px auto;
     width: 100%;
-    max-width: 200px;
+    max-width: 100px;
     position: relative;
     height: auto;
+    float: none;
+}
+.results-card .results-divider {
+    display: block;
+}
+.item-text-wrap {
+    width: 100%;
 }
 .bus-type-item {
     display: block;

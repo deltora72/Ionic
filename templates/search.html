@@ -1,0 +1,147 @@
+<ion-view view-title="هزینه مسافرت بین شهری با اتوبوس">
+
+
+  <ion-pane>
+        
+      <ion-content>
+<!------------------select items--------------------->
+
+<div class="city-selection-container row responsive-lg">  
+<!-----------------------------Orientation list codes--------------------------------->  
+<div class="list begin col">
+<span class="city-select-label">شهر مبدا سفر</span>
+  <label class="item item-input item-select">
+    <div class="input-label">
+      لطفا شهر مبدا را انتخاب کنید
+    </div>
+    <p id="ori-result"></p>
+  </label>
+    <div class="city-selector-container">
+        <label class="item city-search item-input">
+            <input id="ori-search" type="search" placeholder="جستجو" name="search" data-list=".ori">
+            <i class="icon ion-search placeholder-icon"></i>
+        </label>
+        <div class="ori col">
+            <div class="item item-divider row responsive-lg"><span class="state-title">آذربایجان شرقی</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">آذربایجان غربی</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">اردبیل</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">اصفهان</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">البرز</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">ایلام</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">بوشهر</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">تهران</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">چهارمحال و بختیاری</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">خراسان جنوبی</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">خراسان رضوی</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">خراسان شمالی</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">خوزستان</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">زنجان</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">سمنان</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">سیستان و بلوچستان</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">فارس</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">قزوین</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">قم</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">کردستان</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">کرمان</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">کرمانشاه</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">کهگیلویه و بویراحمد</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">گلستان</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">گیلان</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">لرستان</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">مازندران</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">مرکزی</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">هرمزگان</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">همدان</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">یزد</span></div>
+        </div>
+    </div>       
+</div> 
+<!-----------------------------Destination list codes--------------------------------->  
+<div class="list end col">
+<span class="city-select-label">شهر مقصد سفر</span>
+  <label class="item item-input item-select">
+    <div class="input-label">
+     لطفا شهر مقصد را انتخاب کنید
+    </div>
+    <p id="des-result"></p>
+  </label>
+    <div class="city-selector-container">
+        <label class="item city-search item-input">
+            <input id="des-search" type="search" placeholder="جستجو" name="search" data-list=".des">
+            <i class="icon ion-search placeholder-icon"></i>
+        </label>
+        <div class="des col">
+            <div class="item item-divider row responsive-lg"><span class="state-title">آذربایجان شرقی</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">آذربایجان غربی</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">اردبیل</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">اصفهان</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">البرز</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">ایلام</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">بوشهر</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">تهران</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">چهارمحال و بختیاری</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">خراسان جنوبی</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">خراسان رضوی</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">خراسان شمالی</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">خوزستان</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">زنجان</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">سمنان</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">سیستان و بلوچستان</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">فارس</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">قزوین</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">قم</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">کردستان</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">کرمان</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">کرمانشاه</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">کهگیلویه و بویراحمد</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">گلستان</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">گیلان</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">لرستان</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">مازندران</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">مرکزی</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">هرمزگان</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">همدان</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">یزد</span></div>
+        </div>
+    </div>
+</div>
+<!------------------select items---------------------> 
+</div>         
+        
+    <button id="find-bus" class="button button-block button-positive" ng-controller="resultsModal" ng-click="openModal()">نمایش قیمت بلیط</button>
+    
+<!------------------Results card contents--------------------->          
+<script id="bus-results.html" type="text/ng-template">
+  <ion-modal-view>
+ 
+    <div class="card results-card">
+        <div class="item item-divider divider-header">
+            <span id="results-header-text"></span>
+            <i id="modal-return" ng-click="closeModal()" class="icon ion-arrow-left-c"></i>
+        </div>
+
+            <img class="bus-image" src="img/bus-icon-two.png">
+
+            <div class="item item-divider results-divider"></div>
+
+            <div class="item item-text-wrap row responsive-lg">
+                <div id="bus-result-container"></div>
+            </div>
+        
+    </div>
+      
+  </ion-modal-view>
+</script>
+<!-----------------------select items--------------------------> 
+      
+      </ion-content>
+        
+<!--
+    <div class="bar bar-footer bar-assertive">
+        <div class="title">تمامی حقوق این برنامه محفوظ می باشد</div>
+    </div>
+-->
+        
+    </ion-pane>     
+      
+</ion-view>
