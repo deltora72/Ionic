@@ -1,0 +1,3242 @@
+[
+  {
+    "train_ori_city":"تبريز",
+    "train_des_city":" دانشگاه تربيت معلم تبریز",
+    "train_distance":"۱۰۰",
+    "train_type":"ريل باس یک",
+    "train_price":"۱۰۰۰",
+    "moving_days":"روزهاي اداري و پنج شنبه",
+    "moving_hour":"۷:۳۰",
+    "arriving_hour":"۸:۰۵"
+  },
+  {
+    "train_ori_city":"تبريز",
+    "train_des_city":" دانشگاه تربيت معلم تبریز",
+    "train_distance":"۱۰۰",
+    "train_type":"ريل باس دو ",
+    "train_price":"۱۰۰۰",
+    "moving_days":"روزهاي اداري و پنج شنبه",
+    "moving_hour":"۹:۱۵",
+    "arriving_hour":"۹:۵۰"
+  },
+  {
+    "train_ori_city":"تبريز",
+    "train_des_city":" دانشگاه تربيت معلم تبریز",
+    "train_distance":"۱۰۰",
+    "train_type":"ريل باس سه",
+    "train_price":"۱۰۰۰",
+    "moving_days":"روزهاي اداري و پنج شنبه",
+    "moving_hour":"۱۳:۱۵",
+    "arriving_hour":"۱۳:۵۰"
+  },
+  {
+    "train_ori_city":"تبريز",
+    "train_des_city":" دانشگاه تربيت معلم تبریز",
+    "train_distance":"۱۰۰",
+    "train_type":"ريل باس چهار",
+    "train_price":"۱۰۰۰",
+    "moving_days":"روزهاي اداري و پنج شنبه",
+    "moving_hour":"۱۶:۴۰",
+    "arriving_hour":"۱۷:۱۵"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"اراک",
+    "train_distance":"۱۳۰۰",
+    "train_type":"4 تخته درجه 1 خلیج فارس",
+    "train_price":"۷۱۲۵۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۴:۵۰",
+    "arriving_hour":"۷:۴۰"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"اصفهان",
+    "train_distance":"۵۵۰",
+    "train_type":"۶ تخته درجه 1 پارسی",
+    "train_price":"۳۴۰۵۰",
+    "moving_days":"یکروز در میان",
+    "moving_hour":"۲۲:۵۰",
+    "arriving_hour":"۵:۳۰"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"اصفهان",
+    "train_distance":"۱۵۰۰",
+    "train_type":"4 تخته درجه 1 غزال",
+    "train_price":"۹۷۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۵:۳۵",
+    "arriving_hour":"۹:۳۵"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"اصفهان",
+    "train_distance":"۱۵۰۰",
+    "train_type":"4 تخته درجه 1 نور یک",
+    "train_price":"۱۰۶۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۵:۳۵",
+    "arriving_hour":"۹:۳۵"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"اصفهان",
+    "train_distance":"۱۵۰۰",
+    "train_type":"4 تخته درجه 1 نور دو",
+    "train_price":"۱۰۶۰۰۰",
+    "moving_days":"یکروز در میان",
+    "moving_hour":"۱۶:۰۰",
+    "arriving_hour":"۱۱:۱۵"
+  },
+  {
+    "train_ori_city":"بندرعباس",
+    "train_des_city":"اصفهان",
+    "train_distance":"۱۰۵۰",
+    "train_type":"4 تخته درجه 1 پلور",
+    "train_price":"۷۹۹۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۶:۵۰",
+    "arriving_hour":"۸:۲۰"
+  },
+  {
+    "train_ori_city":"بندرعباس",
+    "train_des_city":"اصفهان",
+    "train_distance":"۱۰۵۰",
+    "train_type":"۶ تخته درجه 1 پارسي",
+    "train_price":"۵۷۹۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۶:۵۰",
+    "arriving_hour":"۸:۲۰"
+  },
+  {
+    "train_ori_city":"دورود",
+    "train_des_city":"انديمشك",
+    "train_distance":"۲۵۰",
+    "train_type":"اتوبوسي",
+    "train_price":"۲۰۰۰",
+    "moving_days":"روزهاي اداري و پنج شنبه",
+    "moving_hour":"۱۵:۰۰",
+    "arriving_hour":"۲۰:۲۵"
+  },
+  {
+    "train_ori_city":"اهواز",
+    "train_des_city":"انديمشک",
+    "train_distance":"۱۵۰",
+    "train_type":"ريل باس  اتوبوسي تهويه دار یک",
+    "train_price":"۴۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۲:۲۵",
+    "arriving_hour":"۱۴:۴۰"
+  },
+  {
+    "train_ori_city":"اهواز",
+    "train_des_city":"انديمشک",
+    "train_distance":"۱۵۰",
+    "train_type":"ريل باس  اتوبوسي تهويه دار دو",
+    "train_price":"۴۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۸:۴۰",
+    "arriving_hour":"۲۱:۰۰"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"اندیمشک",
+    "train_distance":"۸۰۰",
+    "train_type":"لوكس۶ نفره",
+    "train_price":"۴۵۷۵۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۵:۴۵",
+    "arriving_hour":"۶:۰۴"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"اندیمشک",
+    "train_distance":"۸۰۰",
+    "train_type":"پلور سبز 4 نفره",
+    "train_price":"۵۷۲۵۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۵:۴۵",
+    "arriving_hour":"۶:۰۴"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"اندیمشک",
+    "train_distance":"۸۰۰",
+    "train_type":"اتوبوسی ",
+    "train_price":"۱۶۴۵۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۱:۳۰",
+    "arriving_hour":"۱:۵۷"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"انکارا",
+    "train_distance":"۲۴۰۰",
+    "train_type":"۴ تخته درجه يك",
+    "train_price":"۲۲۳۵۵۰",
+    "moving_days":"چهارشنبه",
+    "moving_hour":"۲۲:۵۵",
+    "arriving_hour":"۱۱:۰۰"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"اهواز",
+    "train_distance":"۱۷۵۰",
+    "train_type":"۶ تخته درجه يك پارسي",
+    "train_price":"۹۳۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۲۲:۵۵",
+    "arriving_hour":"۳:۱۵"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"اهواز",
+    "train_distance":"۸۵۰",
+    "train_type":"6 صندلی درجه 2",
+    "train_price":"۳۰۷۵۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۱:۳۰",
+    "arriving_hour":"۴:۳۰"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"اهواز",
+    "train_distance":"۸۵۰",
+    "train_type":"6 تخته درجه 1 پارسی",
+    "train_price":"۵۴۲۵۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۱:۳۰",
+    "arriving_hour":"۴:۳۰"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"اهواز",
+    "train_distance":"۸۵۰",
+    "train_type":"اتوبوسی",
+    "train_price":"۲۱۹۸۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۱:۳۰",
+    "arriving_hour":"۴:۳۰"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"اهواز",
+    "train_distance":"۸۵۰",
+    "train_type":"اتوبوسي تهويه دار",
+    "train_price":"۲۷۵۳۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۱:۳۰",
+    "arriving_hour":"۴:۳۰"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"اهواز",
+    "train_distance":"۸۵۰",
+    "train_type":"لوكس۶ نفره",
+    "train_price":"۴۸۷۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۵:۴۵",
+    "arriving_hour":"۸:۳۵"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"اهواز",
+    "train_distance":"۸۵۰",
+    "train_type":"۴ تخته درجه 1 پلور سبز",
+    "train_price":"۶۸۲۵۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۵:۴۵",
+    "arriving_hour":"۸:۳۵"
+  },
+  {
+    "train_ori_city":"خرمشهر",
+    "train_des_city":"اهواز",
+    "train_distance":"۱۵۰",
+    "train_type":"ريل باس  اتوبوسي تهويه دار",
+    "train_price":"۳۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۶:۲۰",
+    "arriving_hour":"۸:۲۰"
+  },
+  {
+    "train_ori_city":"انديمشک",
+    "train_des_city":"اهواز",
+    "train_distance":"۱۵۰",
+    "train_type":"ريل باس  اتوبوسي تهويه دار یک",
+    "train_price":"۴۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۶:۰۰",
+    "arriving_hour":"۸:۱۵"
+  },
+  {
+    "train_ori_city":"انديمشک",
+    "train_des_city":"اهواز",
+    "train_distance":"۱۵۰",
+    "train_type":"ريل باس  اتوبوسي تهويه دار دو",
+    "train_price":"۴۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۵:۱۵",
+    "arriving_hour":"۱۷:۳۵"
+  },
+  {
+    "train_ori_city":"گرگان",
+    "train_des_city":"اينچه برون",
+    "train_distance":"۹۳",
+    "train_type":"ريل باس  اتوبوسي تهويه دار یک",
+    "train_price":"۲۵۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۶:۳۰",
+    "arriving_hour":"۷:۵۵"
+  },
+  {
+    "train_ori_city":"گرگان",
+    "train_des_city":"اينچه برون",
+    "train_distance":"۹۳",
+    "train_type":"ريل باس  اتوبوسي تهويه دار دو",
+    "train_price":"۲۵۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۲:۵۵",
+    "arriving_hour":"۱۴:۲۰"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"آزادور",
+    "train_distance":"۳۵۰",
+    "train_type":"اتوبوسي تهويه دار",
+    "train_price":"۶۴۵۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۳:۵۵",
+    "arriving_hour":"۱۸:۱۵"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"بندرعباس",
+    "train_distance":"۱۵۰۰",
+    "train_type":"۴ تخته درجه 1  غزال",
+    "train_price":"۱۱۲۵۰۰",
+    "moving_days":"یکروز در میان",
+    "moving_hour":"۱۳:۰۰",
+    "arriving_hour":"۹:۵۵"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"بندرعباس",
+    "train_distance":"۱۳۵۰",
+    "train_type":"۶ تخته درجه 1 پارسي یک",
+    "train_price":"۶۷۴۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۴:۰۰",
+    "arriving_hour":"۷:۵۵"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"بندرعباس",
+    "train_distance":"۱۳۵۰",
+    "train_type":"4 تخته درجه 1 غزال",
+    "train_price":"۱۰۱۱۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۳:۱۰",
+    "arriving_hour":"۶:۴۰"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"بندرعباس",
+    "train_distance":"۱۳۵۰",
+    "train_type":"6 تخته درجه 1 پارسی دو",
+    "train_price":"۶۵۹۰۰",
+    "moving_days":"یکروز در میان",
+    "moving_hour":"۱۴:۵۰",
+    "arriving_hour":"۸:۴۵"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"بندرعباس",
+    "train_distance":"۱۳۵۰",
+    "train_type":"4 تخته درجه 1 پلور",
+    "train_price":"۹۳۹۰۰",
+    "moving_days":"یکروز در میان",
+    "moving_hour":"۱۴:۵۰",
+    "arriving_hour":"۸:۴۵"
+  },
+  {
+    "train_ori_city":"اصفهان",
+    "train_des_city":"بندرعباس",
+    "train_distance":"۱۰۵۰",
+    "train_type":"4 تخته درجه 1 پلور",
+    "train_price":"۷۹۹۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۴:۱۵",
+    "arriving_hour":"۵:۱۵"
+  },
+  {
+    "train_ori_city":"اصفهان",
+    "train_des_city":"بندرعباس",
+    "train_distance":"۱۰۵۰",
+    "train_type":"۶ تخته درجه 1 پارسي",
+    "train_price":"۵۷۹۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۴:۱۵",
+    "arriving_hour":"۵:۱۵"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"نيشابور",
+    "train_distance":"۱۳۸",
+    "train_type":"اتوبوسي دو طبقه تهويه دار صبا",
+    "train_price":"۵۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۷:۰۰",
+    "arriving_hour":"۱۸:۴۵"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"پرند",
+    "train_distance":"۱۰۰",
+    "train_type":"اتوبوسي یک",
+    "train_price":"۵۰۰",
+    "moving_days":"روزهاي اداري و پنج شنبه",
+    "moving_hour":"۴:۱۰",
+    "arriving_hour":"۵:۱۰"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"پرند",
+    "train_distance":"۱۰۰",
+    "train_type":"ريل باس یک",
+    "train_price":"۱۵۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۵:۱۰",
+    "arriving_hour":"۶:۱۰"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"پرند",
+    "train_distance":"۱۰۰",
+    "train_type":"اتوبوسي دو",
+    "train_price":"۵۰۰",
+    "moving_days":"روزهاي اداري و پنج شنبه",
+    "moving_hour":"۱۷:۱۵",
+    "arriving_hour":"۱۸:۲۰"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"پرند",
+    "train_distance":"۱۰۰",
+    "train_type":"ريل باس دو ",
+    "train_price":"۲۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۹:۱۰",
+    "arriving_hour":"۲۰:۱۵"
+  },
+  {
+    "train_ori_city":"گرگان",
+    "train_des_city":"پل سفيد",
+    "train_distance":"۲۵۰",
+    "train_type":"ريل باس  اتوبوسي تهويه دار یک",
+    "train_price":"۶۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۳:۵۰",
+    "arriving_hour":"۸:۱۰"
+  },
+  {
+    "train_ori_city":"گرگان",
+    "train_des_city":"پل سفيد",
+    "train_distance":"۲۵۰",
+    "train_type":"ريل باس  اتوبوسي تهويه دار دو",
+    "train_price":"۶۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۴:۴۰",
+    "arriving_hour":"۱۸:۴۵"
+  },
+  {
+    "train_ori_city":"گرگان",
+    "train_des_city":"پل سفيد",
+    "train_distance":"۲۵۰",
+    "train_type":"اتوبوسي",
+    "train_price":"۵۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۶:۰۰",
+    "arriving_hour":"۲۰:۰۰"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"پيشوا",
+    "train_distance":"۱۰۰",
+    "train_type":"ريل باس یک",
+    "train_price":"۲۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۴:۳۰",
+    "arriving_hour":"۵:۱۵"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"پيشوا",
+    "train_distance":"۱۰۰",
+    "train_type":"مترويي",
+    "train_price":"۲۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۵:۲۰",
+    "arriving_hour":"۶:۰۵"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"پيشوا",
+    "train_distance":"۱۰۰",
+    "train_type":"ريل باس دو ",
+    "train_price":"۲۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۷:۳۵",
+    "arriving_hour":"۱۸:۳۰"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"تبريز",
+    "train_distance":"۱۷۰۰",
+    "train_type":"4 تخته درجه 1 خلیج فارس",
+    "train_price":"۹۲۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۹:۴۵",
+    "arriving_hour":"۱۰:۲۵"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"تبريز",
+    "train_distance":"۱۷۰۰",
+    "train_type":"لوکس 4 نفره",
+    "train_price":"۱۰۶۵۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۹:۴۵",
+    "arriving_hour":"۱۰:۲۵"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"تبريز",
+    "train_distance":"۱۷۰۰",
+    "train_type":"6 تخته درجه 1",
+    "train_price":"۱۰۹۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۹:۳۵",
+    "arriving_hour":"۲۰:۴۵"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"تبريز",
+    "train_distance":"۱۷۰۰",
+    "train_type":"4 تخته درجه 1",
+    "train_price":"۶۸۵۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۹:۳۵",
+    "arriving_hour":"۲۰:۴۵"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"تبريز",
+    "train_distance":"۷۵۰",
+    "train_type":"۴ تخته درجه 1 سبز",
+    "train_price":"۵۱۲۵۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۸:۲۰",
+    "arriving_hour":"۷:۱۰"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"تبريز",
+    "train_distance":"۷۵۰",
+    "train_type":"لوكس۴ نفره",
+    "train_price":"۴۶۲۵۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۷:۲۰",
+    "arriving_hour":"۵:۴۵"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"تبريز",
+    "train_distance":"۷۵۰",
+    "train_type":"خليج فارس",
+    "train_price":"۴۴۲۵۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۷:۲۰",
+    "arriving_hour":"۵:۴۵"
+  },
+  {
+    "train_ori_city":"وان",
+    "train_des_city":"تبريز",
+    "train_distance":"۳۵۰",
+    "train_type":"۶ صندلي درجه دو",
+    "train_price":"۴۶۰۵۰",
+    "moving_days":"سه شنبه",
+    "moving_hour":"۲۰:۰۰",
+    "arriving_hour":"۵:۵۰"
+  },
+  {
+    "train_ori_city":"جلفا",
+    "train_des_city":"تبريز",
+    "train_distance":"۱۵۰",
+    "train_type":"اتوبوسي",
+    "train_price":"۲۵۰۰",
+    "moving_days":"يكشنبه _سه شنبه_پنج شنبه_ جمعه ",
+    "moving_hour":"۱۶:۰۰",
+    "arriving_hour":"۱۸:۴۰"
+  },
+  {
+    "train_ori_city":"دانشگاه تربيت معلم تبریز",
+    "train_des_city":"تبريز",
+    "train_distance":"۱۰۰",
+    "train_type":"ريل باس یک",
+    "train_price":"۱۰۰۰",
+    "moving_days":"روزهاي اداري و پنج شنبه",
+    "moving_hour":"۸:۳۰",
+    "arriving_hour":"۹:۰۵"
+  },
+  {
+    "train_ori_city":"دانشگاه تربيت معلم تبریز",
+    "train_des_city":"تبريز",
+    "train_distance":"۱۰۰",
+    "train_type":"ريل باس دو ",
+    "train_price":"۱۰۰۰",
+    "moving_days":"روزهاي اداري و پنج شنبه",
+    "moving_hour":"۱۲:۱۵",
+    "arriving_hour":"۱۲:۵۰"
+  },
+  {
+    "train_ori_city":"دانشگاه تربيت معلم تبریز",
+    "train_des_city":"تبريز",
+    "train_distance":"۱۰۰",
+    "train_type":"ريل باس سه",
+    "train_price":"۱۰۰۰",
+    "moving_days":"روزهاي اداري و پنج شنبه",
+    "moving_hour":"۱۵:۵۰",
+    "arriving_hour":"۱۶:۲۵"
+  },
+  {
+    "train_ori_city":"دانشگاه تربيت معلم تبریز",
+    "train_des_city":"تبريز",
+    "train_distance":"۱۰۰",
+    "train_type":"ريل باس چهار",
+    "train_price":"۱۰۰۰",
+    "moving_days":"روزهاي اداري و پنج شنبه",
+    "moving_hour":"۱۷:۴۵",
+    "arriving_hour":"۱۸:۲۵"
+  },
+  {
+    "train_ori_city":"شاهرود",
+    "train_des_city":"تهران",
+    "train_distance":"۴۵۰",
+    "train_type":"اتوبوسي دو طبقه تهويه دار صبا",
+    "train_price":"۱۸۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۵:۴۰",
+    "arriving_hour":"۲۱:۱۰"
+  },
+  {
+    "train_ori_city":"سمنان",
+    "train_des_city":"تهران",
+    "train_distance":"۲۵۰",
+    "train_type":"اتوبوسي دو طبقه تهويه دار صبا",
+    "train_price":"۸۵۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۵:۲۵",
+    "arriving_hour":"۸:۱۵"
+  },
+  {
+    "train_ori_city":"نيشابور",
+    "train_des_city":"تهران",
+    "train_distance":"۸۰۰",
+    "train_type":"6 صندلی درجه 2",
+    "train_price":"۲۵۳۱۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۲:۱۵",
+    "arriving_hour":"۲۲:۵۵"
+  },
+  {
+    "train_ori_city":"نيشابور",
+    "train_des_city":"تهران",
+    "train_distance":"۸۰۰",
+    "train_type":"۶ تخته درجه1  ميلاد",
+    "train_price":"۴۸۲۵۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۲:۱۵",
+    "arriving_hour":"۲۲:۵۵"
+  },
+  {
+    "train_ori_city":"خواف",
+    "train_des_city":"تهران",
+    "train_distance":"۱۱۰۰",
+    "train_type":"6 صندلی درجه 2",
+    "train_price":"۳۲۸۶۰",
+    "moving_days":"يكروز در ميان",
+    "moving_hour":"۱۴:۴۵",
+    "arriving_hour":"۵:۰۵"
+  },
+  {
+    "train_ori_city":"خواف",
+    "train_des_city":"تهران",
+    "train_distance":"۱۱۰۰",
+    "train_type":"۶ تخته درجه 1",
+    "train_price":"۵۲۹۰۰",
+    "moving_days":"يكروز در ميان",
+    "moving_hour":"۱۴:۴۵",
+    "arriving_hour":"۵:۰۵"
+  },
+  {
+    "train_ori_city":"طبس",
+    "train_des_city":"تهران",
+    "train_distance":"۱۳۰۰",
+    "train_type":"۶ تخته درجه يك پارسي",
+    "train_price":"۵۸۴۰۰",
+    "moving_days":"یکروز در میان",
+    "moving_hour":"۱۲:۳۰",
+    "arriving_hour":"۴:۴۵"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"تهران",
+    "train_distance":"۹۵۰",
+    "train_type":"پرديس تندرو یک",
+    "train_price":"۸۰۴۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۷:۰۰",
+    "arriving_hour":"۱۴:۵۵"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"تهران",
+    "train_distance":"۹۵۰",
+    "train_type":"پرديس تندرو دو",
+    "train_price":"۸۰۴۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۷:۳۰",
+    "arriving_hour":"۱۵:۳۰"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"تهران",
+    "train_distance":"۹۵۰",
+    "train_type":"پرديس تندرو سه",
+    "train_price":"۸۰۴۰۰",
+    "moving_days":"يک روز درميان",
+    "moving_hour":"۷:۵۵",
+    "arriving_hour":"۱۵:۵۰"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"تهران",
+    "train_distance":"۹۵۰",
+    "train_type":"اتوبوسي دو طبقه تهويه دار صبا یک",
+    "train_price":"۴۴۰۷۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۸:۱۵",
+    "arriving_hour":"۱۸:۲۵"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"تهران",
+    "train_distance":"۹۵۰",
+    "train_type":"اتوبوسي دو طبقه تهويه دار صبا دو",
+    "train_price":"۴۴۰۷۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۸:۳۵",
+    "arriving_hour":"۲۰:۴۵"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"تهران",
+    "train_distance":"۹۵۰",
+    "train_type":"۴ تخته درجه يك مارال",
+    "train_price":"۵۶۰۰۰",
+    "moving_days":"یکروز در میان",
+    "moving_hour":"۱۶:۰۰",
+    "arriving_hour":"۳:۵۰"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"تهران",
+    "train_distance":"۹۵۰",
+    "train_type":"6 صندلی درجه 2",
+    "train_price":"۴۹۹۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۱:۵۰",
+    "arriving_hour":"۰:۰۰"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"تهران",
+    "train_distance":"۹۵۰",
+    "train_type":"6 تخته درجه 1 میلاد",
+    "train_price":"۵۵۹۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۱:۵۰",
+    "arriving_hour":"۰:۰۰"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"تهران",
+    "train_distance":"۹۵۰",
+    "train_type":" ۶ تخته درجه 1 یک",
+    "train_price":"۵۵۹۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۱:۵۰",
+    "arriving_hour":"۰:۰۰"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"تهران",
+    "train_distance":"۹۵۰",
+    "train_type":"اتوبوسی",
+    "train_price":"۶۰۴۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۲۳:۳۵",
+    "arriving_hour":"۱۱:۲۰"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"تهران",
+    "train_distance":"۹۵۰",
+    "train_type":"۶ تخته لوكس",
+    "train_price":"۶۲۴۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۲۳:۳۵",
+    "arriving_hour":"۱۱:۲۰"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"تهران",
+    "train_distance":"۹۵۰",
+    "train_type":"۶ تخته درجه يك كوير",
+    "train_price":"۵۷۴۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۳:۲۵",
+    "arriving_hour":"۱:۲۰"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"تهران",
+    "train_distance":"۹۵۰",
+    "train_type":"4 تخته درجه 1 خلیج فارس",
+    "train_price":"۶۵۹۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۲۲:۰۵",
+    "arriving_hour":"۹:۵۵"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"تهران",
+    "train_distance":"۹۵۰",
+    "train_type":"لوكس ۴ نفره اكسپرس",
+    "train_price":"۷۵۹۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۲۲:۰۵",
+    "arriving_hour":"۹:۵۵"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"تهران",
+    "train_distance":"۹۵۰",
+    "train_type":"۴ تخته درجه يك غزال",
+    "train_price":"۸۴۳۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۲۱:۴۰",
+    "arriving_hour":"۹:۳۰"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"تهران",
+    "train_distance":"۹۵۰",
+    "train_type":"۴ تخته درجه يك سیمرغ",
+    "train_price":"۷۸۹۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۲۰:۰۰",
+    "arriving_hour":"۸:۰۰"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"تهران",
+    "train_distance":"۹۵۰",
+    "train_type":"۴ تخته درجه يك نگين",
+    "train_price":"۷۲۹۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۶:۲۵",
+    "arriving_hour":"۴:۱۰"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"تهران",
+    "train_distance":"۹۵۰",
+    "train_type":"۴تخته درجه 1 پلور یک",
+    "train_price":"۷۹۴۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۸:۳۰",
+    "arriving_hour":"۶:۵۰"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"تهران",
+    "train_distance":"۹۵۰",
+    "train_type":"ويژه مجلل زندگي",
+    "train_price":"۱۵۰۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۸:۳۰",
+    "arriving_hour":"۶:۵۰"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"تهران",
+    "train_distance":"۹۵۰",
+    "train_type":"۴ تخته درجه يك نور",
+    "train_price":"۹۱۹۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۸:۰۰",
+    "arriving_hour":"۵:۴۵"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"تهران",
+    "train_distance":"۹۵۰",
+    "train_type":"4 تخته درجه 1 پلور دو",
+    "train_price":"۸۵۴۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۲۲:۳۰",
+    "arriving_hour":"۱۰:۱۰"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"تهران",
+    "train_distance":"۹۵۰",
+    "train_type":"4 تخته درجه 1 سروش",
+    "train_price":"۸۴۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۲۲:۳۰",
+    "arriving_hour":"۱۰:۱۰"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"تهران",
+    "train_distance":"۹۵۰",
+    "train_type":"لوکس 4 نفره نگین",
+    "train_price":"۶۴۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۲۲:۳۰",
+    "arriving_hour":"۱۰:۱۰"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"تهران",
+    "train_distance":"۹۵۰",
+    "train_type":"لوكس۶نفري نگين",
+    "train_price":"۴۹۹۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۲۲:۳۰",
+    "arriving_hour":"۱۰:۱۰"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"تهران",
+    "train_distance":"۹۵۰",
+    "train_type":"vip غزال",
+    "train_price":"۸۶۱۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۲۱:۱۵",
+    "arriving_hour":"۹:۰۵"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"تهران",
+    "train_distance":"۹۵۰",
+    "train_type":"۴ تخته درجه 1  سبز",
+    "train_price":"۷۸۹۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۲۰:۵۰",
+    "arriving_hour":"۸:۴۵"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"تهران",
+    "train_distance":"۹۵۰",
+    "train_type":"۶ تخته درجه 1 دو",
+    "train_price":"۵۴۴۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۲:۲۵",
+    "arriving_hour":"۰:۳۰"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"تهران",
+    "train_distance":"۹۵۰",
+    "train_type":"۶ تخته درجه دو",
+    "train_price":"۴۲۳۵۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱:۴۵",
+    "arriving_hour":"۱۳:۴۵"
+  },
+  {
+    "train_ori_city":"اهواز",
+    "train_des_city":"تهران",
+    "train_distance":"۸۵۰",
+    "train_type":"6 صندلی درجه 2",
+    "train_price":"۳۰۷۵۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۱:۲۵",
+    "arriving_hour":"۴:۴۵"
+  },
+  {
+    "train_ori_city":"اهواز",
+    "train_des_city":"تهران",
+    "train_distance":"۸۵۰",
+    "train_type":"6 تخته درجه 1 پارسی",
+    "train_price":"۵۴۲۵۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۱:۲۵",
+    "arriving_hour":"۴:۴۵"
+  },
+  {
+    "train_ori_city":"اهواز",
+    "train_des_city":"تهران",
+    "train_distance":"۸۵۰",
+    "train_type":"اتوبوسی",
+    "train_price":"۲۱۹۸۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۱:۲۵",
+    "arriving_hour":"۴:۴۵"
+  },
+  {
+    "train_ori_city":"اهواز",
+    "train_des_city":"تهران",
+    "train_distance":"۸۵۰",
+    "train_type":"اتوبوسي تهويه دار",
+    "train_price":"۲۷۵۳۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۱:۲۵",
+    "arriving_hour":"۴:۴۵"
+  },
+  {
+    "train_ori_city":"خرمشهر",
+    "train_des_city":"تهران",
+    "train_distance":"۹۵۰",
+    "train_type":"لوكس۳تخته",
+    "train_price":"۹۸۴۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۱:۲۵",
+    "arriving_hour":"۵:۳۰"
+  },
+  {
+    "train_ori_city":"خرمشهر",
+    "train_des_city":"تهران",
+    "train_distance":"۹۵۰",
+    "train_type":" تخته درجه ي1  پارسي",
+    "train_price":"۶۲۴۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۱:۲۵",
+    "arriving_hour":"۵:۳۰"
+  },
+  {
+    "train_ori_city":"اهواز",
+    "train_des_city":"تهران",
+    "train_distance":"۸۵۰",
+    "train_type":"لوكس۶ نفره",
+    "train_price":"۴۸۷۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۴:۴۰",
+    "arriving_hour":"۶:۳۰"
+  },
+  {
+    "train_ori_city":"اهواز",
+    "train_des_city":"تهران",
+    "train_distance":"۸۵۰",
+    "train_type":"۴ تخته درجه 1 پلور سبز",
+    "train_price":"۶۸۲۵۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۴:۴۰",
+    "arriving_hour":"۶:۳۰"
+  },
+  {
+    "train_ori_city":"اندیمشک",
+    "train_des_city":"تهران",
+    "train_distance":"۸۰۰",
+    "train_type":"لوكس۶ نفره",
+    "train_price":"۴۵۷۵۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"16:53",
+    "arriving_hour":"۶:۰۴"
+  },
+  {
+    "train_ori_city":"اندیمشک",
+    "train_des_city":"تهران",
+    "train_distance":"۸۰۰",
+    "train_type":"پلور سبز 4 نفره",
+    "train_price":"۵۷۲۵۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"16:53",
+    "arriving_hour":"۶:۰۴"
+  },
+  {
+    "train_ori_city":"اندیمشک",
+    "train_des_city":"تهران",
+    "train_distance":"۸۰۰",
+    "train_type":"اتوبوسی ",
+    "train_price":"۱۶۴۵۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"16:53",
+    "arriving_hour":"۶:۰۴"
+  },
+  {
+    "train_ori_city":"تبريز",
+    "train_des_city":"تهران",
+    "train_distance":"۷۵۰",
+    "train_type":"۴ تخته درجه  1سبز",
+    "train_price":"۵۱۲۵۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۷:۳۰",
+    "arriving_hour":"۵:۴۰"
+  },
+  {
+    "train_ori_city":"تبريز",
+    "train_des_city":"تهران",
+    "train_distance":"۷۵۰",
+    "train_type":"لوكس۴ نفره",
+    "train_price":"۴۶۲۵۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۲۰:۱۵",
+    "arriving_hour":"۸:۵۰"
+  },
+  {
+    "train_ori_city":"تبريز",
+    "train_des_city":"تهران",
+    "train_distance":"۷۵۰",
+    "train_type":"خليج فارس",
+    "train_price":"۴۴۲۵۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۲۰:۱۵",
+    "arriving_hour":"۸:۵۰"
+  },
+  {
+    "train_ori_city":"مراغه",
+    "train_des_city":"تهران",
+    "train_distance":"۶۵۰",
+    "train_type":"6 تخته درجه 1",
+    "train_price":"۲۹۶۵۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۸:۱۵",
+    "arriving_hour":"۴:۲۵"
+  },
+  {
+    "train_ori_city":"مراغه",
+    "train_des_city":"تهران",
+    "train_distance":"۶۵۰",
+    "train_type":"4 تخته درجه 1",
+    "train_price":"۴۰۶۵۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۸:۱۵",
+    "arriving_hour":"۴:۲۵"
+  },
+  {
+    "train_ori_city":"مراغه",
+    "train_des_city":"تهران",
+    "train_distance":"۶۵۰",
+    "train_type":"۶ تخته درجه 2",
+    "train_price":"۲۳۶۵۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۲۰:۳۰",
+    "arriving_hour":"۷:۰۵"
+  },
+  {
+    "train_ori_city":"زنجان",
+    "train_des_city":"تهران",
+    "train_distance":"۳۵۰",
+    "train_type":"پرديس تندرو",
+    "train_price":"۲۲۶۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۴:۱۵",
+    "arriving_hour":"۱۷:۴۰"
+  },
+  {
+    "train_ori_city":"ميانه",
+    "train_des_city":"تهران",
+    "train_distance":"۴۵۰",
+    "train_type":"پرديس تندرو",
+    "train_price":"۲۷۶۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۵:۳۰",
+    "arriving_hour":"۱۱:۳۵"
+  },
+  {
+    "train_ori_city":"زنجان",
+    "train_des_city":"تهران",
+    "train_distance":"۳۵۰",
+    "train_type":"اتوبوسي دو طبقه تهويه دار صبا",
+    "train_price":"۱۲۰۴۵",
+    "moving_days":"همه روزه",
+    "moving_hour":"۶:۳۰",
+    "arriving_hour":"۱۰:۳۰"
+  },
+  {
+    "train_ori_city":"ميانه",
+    "train_des_city":"تهران",
+    "train_distance":"۴۵۰",
+    "train_type":"اتوبوسي",
+    "train_price":"۱۲۱۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۴:۲۵",
+    "arriving_hour":"۲۱:۱۰"
+  },
+  {
+    "train_ori_city":"ميانه",
+    "train_des_city":"تهران",
+    "train_distance":"۴۵۰",
+    "train_type":"اتوبوسي تهويه دار",
+    "train_price":"۱۶۶۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۶:۳۰",
+    "arriving_hour":"۱۲:۴۰"
+  },
+  {
+    "train_ori_city":"اصفهان",
+    "train_des_city":"تهران",
+    "train_distance":"۵۵۰",
+    "train_type":"۶ تخته درجه 1 پارسی",
+    "train_price":"۳۴۰۵۰",
+    "moving_days":"یکروز در میان",
+    "moving_hour":"۲۳:۱۰",
+    "arriving_hour":"۵:۵۵"
+  },
+  {
+    "train_ori_city":"شيراز",
+    "train_des_city":"تهران",
+    "train_distance":"۱۰۵۰",
+    "train_type":"۶ تخته درجه ي 1پارسي",
+    "train_price":"۶۰۴۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۷:۵۰",
+    "arriving_hour":"۸:۴۰"
+  },
+  {
+    "train_ori_city":"شيراز",
+    "train_des_city":"تهران",
+    "train_distance":"۱۰۵۰",
+    "train_type":"4 تخته درجه ی 1 نور",
+    "train_price":"۸۸۹۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۷:۵۰",
+    "arriving_hour":"۸:۴۰"
+  },
+  {
+    "train_ori_city":"شيراز",
+    "train_des_city":"تهران",
+    "train_distance":"۱۰۵۰",
+    "train_type":"۴ تخته درجه 1پلور سبز دو",
+    "train_price":"۷۶۹۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۷:۵۰",
+    "arriving_hour":"۸:۴۰"
+  },
+  {
+    "train_ori_city":"يزد",
+    "train_des_city":"تهران",
+    "train_distance":"۶۵۰",
+    "train_type":"پرديس تندرو",
+    "train_price":"۳۹۱۵۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۵:۱۵",
+    "arriving_hour":"۱۰:۴۵"
+  },
+  {
+    "train_ori_city":"يزد",
+    "train_des_city":"تهران",
+    "train_distance":"۶۵۰",
+    "train_type":"اتوبوسي دو طبقه تهويه دار صبا",
+    "train_price":"۲۵۶۵۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۲۰:۴۰",
+    "arriving_hour":"۴:۲۰"
+  },
+  {
+    "train_ori_city":"يزد",
+    "train_des_city":"تهران",
+    "train_distance":"۶۵۰",
+    "train_type":"4 تخته درجه 1  پلور سبز",
+    "train_price":"۴۹۱۵۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۲۰:۴۰",
+    "arriving_hour":"۴:۲۰"
+  },
+  {
+    "train_ori_city":"يزد",
+    "train_des_city":"تهران",
+    "train_distance":"۶۵۰",
+    "train_type":"۶ تخته درجه 1پارسي",
+    "train_price":"۳۷۱۵۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۲۰:۴۰",
+    "arriving_hour":"۴:۲۰"
+  },
+  {
+    "train_ori_city":"كرمان",
+    "train_des_city":"تهران",
+    "train_distance":"۱۰۰۰",
+    "train_type":"۶ تخته درجه ي1پارسي",
+    "train_price":"۵۸۴۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۵:۲۰",
+    "arriving_hour":"۵:۱۰"
+  },
+  {
+    "train_ori_city":"زاهدان",
+    "train_des_city":"تهران",
+    "train_distance":"۱۵۵۰",
+    "train_type":"۶ تخته درجه ي1پارسي",
+    "train_price":"۷۳۵۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۴:۴۰",
+    "arriving_hour":"۱۳:۴۰"
+  },
+  {
+    "train_ori_city":"زاهدان",
+    "train_des_city":"تهران",
+    "train_distance":"۱۵۵۰",
+    "train_type":" ۴ تخته درجه ي1 پلور سبز",
+    "train_price":"۱۰۸۵۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۴:۴۰",
+    "arriving_hour":"۱۳:۴۰"
+  },
+  {
+    "train_ori_city":"كرمان",
+    "train_des_city":"تهران",
+    "train_distance":"۱۰۰۰",
+    "train_type":"۵ تخته درجه 1  پلور",
+    "train_price":"۱۰۵۹۰۰",
+    "moving_days":"يكروز در ميان",
+    "moving_hour":"۲۰:۰۰",
+    "arriving_hour":"۹:۳۰"
+  },
+  {
+    "train_ori_city":"بندرعباس",
+    "train_des_city":"تهران",
+    "train_distance":"۱۳۵۰",
+    "train_type":"۷ تخته درجه 1 پارسي",
+    "train_price":"۶۷۴۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۴:۳۰",
+    "arriving_hour":"۸:۲۰"
+  },
+  {
+    "train_ori_city":"بندرعباس",
+    "train_des_city":"تهران",
+    "train_distance":"۱۳۵۰",
+    "train_type":"4 تخته درجه 1 غزال",
+    "train_price":"۱۰۱۱۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۳:۱۰",
+    "arriving_hour":"۷:۰۰"
+  },
+  {
+    "train_ori_city":"بندرعباس",
+    "train_des_city":"تهران",
+    "train_distance":"۱۳۵۰",
+    "train_type":"6 تخته درجه 1 پارسی",
+    "train_price":"۶۵۹۰۰",
+    "moving_days":"یکروز در میان",
+    "moving_hour":"۱۵:۴۰",
+    "arriving_hour":"۹:۳۰"
+  },
+  {
+    "train_ori_city":"بندرعباس",
+    "train_des_city":"تهران",
+    "train_distance":"۱۳۵۰",
+    "train_type":"4 تخته درجه 1 پلور",
+    "train_price":"۹۳۹۰۰",
+    "moving_days":"یکروز در میان",
+    "moving_hour":"۱۵:۴۰",
+    "arriving_hour":"۹:۳۰"
+  },
+  {
+    "train_ori_city":"ساري",
+    "train_des_city":"تهران",
+    "train_distance":"۴۰۰",
+    "train_type":"اتوبوسی درجه 1",
+    "train_price":"۱۳۱۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۲۰:۴۰",
+    "arriving_hour":"۴:۲۵"
+  },
+  {
+    "train_ori_city":"ساري",
+    "train_des_city":"تهران",
+    "train_distance":"۴۰۰",
+    "train_type":"4 صندلی لوکس",
+    "train_price":"۲۹۷۵",
+    "moving_days":"همه روزه",
+    "moving_hour":"۲۲:۲۸",
+    "arriving_hour":"۶:۲۵"
+  },
+  {
+    "train_ori_city":"ساري",
+    "train_des_city":"تهران",
+    "train_distance":"۴۰۰",
+    "train_type":"اتوبوسی درجه 2",
+    "train_price":"۱۰۴۳۵",
+    "moving_days":"همه روزه",
+    "moving_hour":"۲۰:۴۰",
+    "arriving_hour":"۴:۲۵"
+  },
+  {
+    "train_ori_city":"گرگان",
+    "train_des_city":"تهران",
+    "train_distance":"۵۰۰",
+    "train_type":"6 تخته درجه 2 ",
+    "train_price":"۱۹۶۵۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۹:۵۰",
+    "arriving_hour":"۶:۱۵"
+  },
+  {
+    "train_ori_city":"گرگان",
+    "train_des_city":"تهران",
+    "train_distance":"۵۰۰",
+    "train_type":"اتوبوسی معمولی",
+    "train_price":"۱۳۲۱۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۹:۵۰",
+    "arriving_hour":"۶:۱۵"
+  },
+  {
+    "train_ori_city":"گرگان",
+    "train_des_city":"تهران",
+    "train_distance":"۵۰۰",
+    "train_type":"4 تخته البرز",
+    "train_price":"۳۹۱۵۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۹:۵۰",
+    "arriving_hour":"۶:۱۵"
+  },
+  {
+    "train_ori_city":"گرگان",
+    "train_des_city":"تهران",
+    "train_distance":"۵۰۰",
+    "train_type":"6 تخته درجه 1 پارسی یک",
+    "train_price":"۲۶۶۵۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۹:۵۰",
+    "arriving_hour":"۶:۱۵"
+  },
+  {
+    "train_ori_city":"گرگان",
+    "train_des_city":"تهران",
+    "train_distance":"۵۰۰",
+    "train_type":"6 تخته درجه 1 پارسی دو",
+    "train_price":"۲۶۶۵۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۸:۳۰",
+    "arriving_hour":"۴:۵۰"
+  },
+  {
+    "train_ori_city":"فيروزكوه",
+    "train_des_city":"تهران",
+    "train_distance":"۲۵۰",
+    "train_type":"اتوبوسي",
+    "train_price":"۳۵۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۶:۰۰",
+    "arriving_hour":"۱۹:۵۵"
+  },
+  {
+    "train_ori_city":"جمكران",
+    "train_des_city":"تهران",
+    "train_distance":"۲۰۰",
+    "train_type":"ريل باس  اتوبوسي تهويه دار",
+    "train_price":"۴۰۰۰",
+    "moving_days":"سه شنبه",
+    "moving_hour":"۲۳:۲۵",
+    "arriving_hour":"۱:۴۰"
+  },
+  {
+    "train_ori_city":"قم",
+    "train_des_city":"تهران",
+    "train_distance":"۲۰۰",
+    "train_type":"پرديس تندرو",
+    "train_price":"۴۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۵:۳۰",
+    "arriving_hour":"۷:۱۰"
+  },
+  {
+    "train_ori_city":"قم",
+    "train_des_city":"تهران",
+    "train_distance":"۲۰۰",
+    "train_type":"اتوبوسي دو طبقه تهويه دار صبا یک",
+    "train_price":"۴۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۹:۲۰",
+    "arriving_hour":"۱۱:۱۰"
+  },
+  {
+    "train_ori_city":"قم",
+    "train_des_city":"تهران",
+    "train_distance":"۲۰۰",
+    "train_type":"اتوبوسي دو طبقه تهويه دار صبا دو",
+    "train_price":"۴۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۷:۲۵",
+    "arriving_hour":"۱۹:۱۵"
+  },
+  {
+    "train_ori_city":"پيشوا",
+    "train_des_city":"تهران",
+    "train_distance":"۱۰۰",
+    "train_type":"ريل باس یک",
+    "train_price":"۲۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۵:۴۰",
+    "arriving_hour":"۶:۳۵"
+  },
+  {
+    "train_ori_city":"پيشوا",
+    "train_des_city":"تهران",
+    "train_distance":"۱۰۰",
+    "train_type":"مترويي",
+    "train_price":"۲۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۶:۲۵",
+    "arriving_hour":"۷:۲۰"
+  },
+  {
+    "train_ori_city":"پيشوا",
+    "train_des_city":"تهران",
+    "train_distance":"۱۰۰",
+    "train_type":"ريل باس دو ",
+    "train_price":"۲۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۹:۱۵",
+    "arriving_hour":"۲۰:۱۰"
+  },
+  {
+    "train_ori_city":"هشتگردكرج",
+    "train_des_city":"تهران",
+    "train_distance":"۱۰۰",
+    "train_type":"ريل باس یک",
+    "train_price":"۱۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۸:۳۰",
+    "arriving_hour":"۹:۴۵"
+  },
+  {
+    "train_ori_city":"هشتگردكرج",
+    "train_des_city":"تهران",
+    "train_distance":"۱۰۰",
+    "train_type":"ريل باس دو ",
+    "train_price":"۱۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۵:۲۰",
+    "arriving_hour":"۱۶:۳۵"
+  },
+  {
+    "train_ori_city":"هشتگردكرج",
+    "train_des_city":"تهران",
+    "train_distance":"۱۰۰",
+    "train_type":"ريل باس سه",
+    "train_price":"۱۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۵:۳۵",
+    "arriving_hour":"۶:۴۵"
+  },
+  {
+    "train_ori_city":"هشتگردكرج",
+    "train_des_city":"تهران",
+    "train_distance":"۱۰۰",
+    "train_type":"ريل باس چهار",
+    "train_price":"۱۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۶:۳۵",
+    "arriving_hour":"۸:۰۰"
+  },
+  {
+    "train_ori_city":"هشتگردكرج",
+    "train_des_city":"تهران",
+    "train_distance":"۱۰۰",
+    "train_type":"ريل باس پنج",
+    "train_price":"۱۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۷:۱۰",
+    "arriving_hour":"۸:۲۵"
+  },
+  {
+    "train_ori_city":"قزوين",
+    "train_des_city":"تهران",
+    "train_distance":"۱۴۴",
+    "train_type":"ريل باس ",
+    "train_price":"۴۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۵:۲۵",
+    "arriving_hour":"۷:۳۰"
+  },
+  {
+    "train_ori_city":"آنكارا",
+    "train_des_city":"تهران",
+    "train_distance":"۲۴۰۰",
+    "train_type":"۴ تخته درجه يك",
+    "train_price":"۲۲۳۵۵۰",
+    "moving_days":"چهارشنبه",
+    "moving_hour":"۱۰:۲۵",
+    "arriving_hour":"۲۲:۰۵"
+  },
+  {
+    "train_ori_city":"پرند",
+    "train_des_city":"تهران",
+    "train_distance":"۱۰۰",
+    "train_type":"اتوبوسي یک",
+    "train_price":"۵۰۰",
+    "moving_days":"روزهاي اداري و پنج شنبه",
+    "moving_hour":"۵:۴۰",
+    "arriving_hour":"۶:۴۰"
+  },
+  {
+    "train_ori_city":"پرند",
+    "train_des_city":"تهران",
+    "train_distance":"۱۰۰",
+    "train_type":"ريل باس یک",
+    "train_price":"۱۵۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۶:۲۰",
+    "arriving_hour":"۷:۲۵"
+  },
+  {
+    "train_ori_city":"پرند",
+    "train_des_city":"تهران",
+    "train_distance":"۱۰۰",
+    "train_type":"اتوبوسي دو",
+    "train_price":"۵۰۰",
+    "moving_days":"روزهاي اداري و پنج شنبه",
+    "moving_hour":"۱۸:۴۵",
+    "arriving_hour":"۱۹:۴۵"
+  },
+  {
+    "train_ori_city":"پرند",
+    "train_des_city":"تهران",
+    "train_distance":"۱۰۰",
+    "train_type":"ريل باس دو ",
+    "train_price":"۲۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۲۰:۳۰",
+    "arriving_hour":"۲۱:۰۳"
+  },
+  {
+    "train_ori_city":"تبريز",
+    "train_des_city":"جلفا",
+    "train_distance":"۱۵۰",
+    "train_type":"اتوبوسي",
+    "train_price":"۲۵۰۰",
+    "moving_days":"يكشنبه _سه شنبه_پنج شنبه_ جمعه ",
+    "moving_hour":"۶:۳۰",
+    "arriving_hour":"۹:۱۰"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"جمکران",
+    "train_distance":"۲۰۰",
+    "train_type":"ريل باس  اتوبوسي تهويه دار",
+    "train_price":"۴۰۰۰",
+    "moving_days":"سه شنبه ",
+    "moving_hour":"۱۵:۱۵",
+    "arriving_hour":"۱۷:۲۰"
+  },
+  {
+    "train_ori_city":"دورود",
+    "train_des_city":"چمسنگر",
+    "train_distance":"۱۰۰",
+    "train_type":"اتوبوسي",
+    "train_price":"۱۰۰۰",
+    "moving_days":"روزهاي اداري و پنج شنبه",
+    "moving_hour":"۶:۰۰",
+    "arriving_hour":"۷:۳۵"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"خرمشهر",
+    "train_distance":"۹۵۰",
+    "train_type":"لوكس۳تخته",
+    "train_price":"۹۸۴۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۳:۳۵",
+    "arriving_hour":"۷:۵۵"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"خرمشهر",
+    "train_distance":"۹۵۰",
+    "train_type":" تخته درجه ي1  پارسي",
+    "train_price":"۶۲۴۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۳:۳۵",
+    "arriving_hour":"۷:۵۵"
+  },
+  {
+    "train_ori_city":"اهواز",
+    "train_des_city":"خرمشهر",
+    "train_distance":"۱۵۰",
+    "train_type":"ريل باس  اتوبوسي تهويه دار",
+    "train_price":"۳۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۸:۲۰",
+    "arriving_hour":"۲۰:۴۵"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"خواف",
+    "train_distance":"۱۱۰۰",
+    "train_type":"6 صندلی درجه 2",
+    "train_price":"۳۲۸۶۰",
+    "moving_days":"يكروز در ميان",
+    "moving_hour":"۱۲:۱۰",
+    "arriving_hour":"۲:۳۰"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"خواف",
+    "train_distance":"۱۱۰۰",
+    "train_type":"۶ تخته درجه يك",
+    "train_price":"۵۲۹۰۰",
+    "moving_days":"يكروز در ميان",
+    "moving_hour":"۱۲:۱۰",
+    "arriving_hour":"۲:۳۰"
+  },
+  {
+    "train_ori_city":"انديمشك",
+    "train_des_city":"دورود",
+    "train_distance":"۲۵۰",
+    "train_type":"اتوبوسي",
+    "train_price":"۲۰۰۰",
+    "moving_days":"روزهاي اداري و پنج شنبه",
+    "moving_hour":"۲۳:۰۰",
+    "arriving_hour":"۴:۴۰"
+  },
+  {
+    "train_ori_city":"چمسنگر",
+    "train_des_city":"دورود",
+    "train_distance":"۱۰۰",
+    "train_type":"اتوبوسي",
+    "train_price":"۱۰۰۰",
+    "moving_days":"روزهاي اداري و پنج شنبه",
+    "moving_hour":"۱۵:۴۰",
+    "arriving_hour":"۱۷:۱۵"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"زاهدان",
+    "train_distance":"۱۵۵۰",
+    "train_type":"۶ تخته درجه ي1پارسي",
+    "train_price":"۷۳۵۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۲:۰۰",
+    "arriving_hour":"۱۰:۴۰"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"زاهدان",
+    "train_distance":"۱۵۵۰",
+    "train_type":" ۴ تخته درجه ي1 پلور سبز",
+    "train_price":"۱۰۸۵۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۲:۰۰",
+    "arriving_hour":"۱۰:۴۰"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"زنجان",
+    "train_distance":"۳۵۰",
+    "train_type":"پرديس تندرو",
+    "train_price":"۲۲۶۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۷:۱۰",
+    "arriving_hour":"۱۰:۵۰"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"زنجان",
+    "train_distance":"۳۵۰",
+    "train_type":"اتوبوسي دو طبقه تهويه دار صبا",
+    "train_price":"۱۲۰۴۵",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۵:۰۰",
+    "arriving_hour":"۱۹:۳۵"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"زنجان",
+    "train_distance":"۱۲۵۰",
+    "train_type":"۴ تخته درجه يك",
+    "train_price":"۸۰۹۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۲۰:۲۵",
+    "arriving_hour":"۱۳:۱۰"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"زنجان",
+    "train_distance":"۱۲۵۰",
+    "train_type":"۶ صندلي درجه دو",
+    "train_price":"۳۷۴۱۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۲۰:۲۵",
+    "arriving_hour":"۱۳:۱۰"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"ساري",
+    "train_distance":"۴۰۰",
+    "train_type":"6 صندلی لوکس",
+    "train_price":"۱۹۵۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۲۲:۵۰",
+    "arriving_hour":"۵:۵۵"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"ساري",
+    "train_distance":"۴۰۰",
+    "train_type":"اتوبوسی درجه 1",
+    "train_price":"۱۳۱۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۰:۲۰",
+    "arriving_hour":"۱۷:۲۰"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"ساري",
+    "train_distance":"۴۰۰",
+    "train_type":"اتوبوسی درجه 2",
+    "train_price":"۱۰۴۳۵",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۹:۱۰",
+    "arriving_hour":"۲:۱۰"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"ساري",
+    "train_distance":"۱۱۰۰",
+    "train_type":"4 تخته درجه 1 البرز",
+    "train_price":"۷۶۳۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۷:۲۵",
+    "arriving_hour":"۱۰:۲۵"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"ساري",
+    "train_distance":"۱۱۰۰",
+    "train_type":"۴ تخته درجه 1 دليجان",
+    "train_price":"۴۹۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۷:۲۵",
+    "arriving_hour":"۱۰:۲۵"
+  },
+  {
+    "train_ori_city":"كارون",
+    "train_des_city":"سربندر",
+    "train_distance":"۱۰۰",
+    "train_type":"اتوبوسي دو طبقه تهويه دار صبا یک",
+    "train_price":"۳۰۰۰",
+    "moving_days":"روزهاي اداري و پنج شنبه",
+    "moving_hour":"۶:۳۰",
+    "arriving_hour":"۷:۵۰"
+  },
+  {
+    "train_ori_city":"كارون",
+    "train_des_city":"سربندر",
+    "train_distance":"۱۰۰",
+    "train_type":"اتوبوسي دو طبقه تهويه دار صبا دو",
+    "train_price":"۳۰۰۰",
+    "moving_days":"روزهاي اداري و پنج شنبه",
+    "moving_hour":"۹:۲۰",
+    "arriving_hour":"۱۰:۳۵"
+  },
+  {
+    "train_ori_city":"كارون",
+    "train_des_city":"سربندر",
+    "train_distance":"۱۰۰",
+    "train_type":"اتوبوسي دو طبقه تهويه دار صبا سه",
+    "train_price":"۳۰۰۰",
+    "moving_days":"روزهاي اداري و پنج شنبه",
+    "moving_hour":"۱۵:۱۰",
+    "arriving_hour":"۱۶:۲۵"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"سرخس",
+    "train_distance":"۲۰۰",
+    "train_type":"اتوبوسي",
+    "train_price":"۶۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۹:۱۵",
+    "arriving_hour":"۲۲:۰۵"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"سمنان",
+    "train_distance":"۷۰۰",
+    "train_type":"6 صندلی درجه 2",
+    "train_price":"۲۱۹۸۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۰:۲۰",
+    "arriving_hour":"۹:۳۵"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"سمنان",
+    "train_distance":"۷۰۰",
+    "train_type":"  ۴ تخته درجه يك ",
+    "train_price":"۴۷۲۵۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۰:۲۰",
+    "arriving_hour":"۹:۳۵"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"سمنان",
+    "train_distance":"۲۵۰",
+    "train_type":"اتوبوسي دو طبقه تهويه دار صبا",
+    "train_price":"۸۵۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۵:۳۵",
+    "arriving_hour":"۱۸:۲۰"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"شاهرود",
+    "train_distance":"۵۰۰",
+    "train_type":"6 صندلی درجه 2",
+    "train_price":"۱۶۴۳۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۲:۱۰",
+    "arriving_hour":"۸:۵۰"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"شاهرود",
+    "train_distance":"۵۰۰",
+    "train_type":"  ۴ تخته درجه يك ",
+    "train_price":"۳۶۱۵۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۲:۱۰",
+    "arriving_hour":"۸:۵۰"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"شاهرود",
+    "train_distance":"۴۵۰",
+    "train_type":"اتوبوسي دو طبقه تهويه دار صبا",
+    "train_price":"۱۸۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۸:۴۰",
+    "arriving_hour":"۱۳:۳۰"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"شيراز",
+    "train_distance":"۱۷۵۰",
+    "train_type":"۴ تخته درجه 1پلور سبز",
+    "train_price":"۱۰۵۰۰۰",
+    "moving_days":"یکروز در میان",
+    "moving_hour":"۱۳:۰۰",
+    "arriving_hour":"۱۳:۵۰"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"شيراز",
+    "train_distance":"۱۰۵۰",
+    "train_type":"۶ تخته درجه ي 1پارسي",
+    "train_price":"۶۰۴۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۶:۱۰",
+    "arriving_hour":"۶:۵۰"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"شيراز",
+    "train_distance":"۱۰۵۰",
+    "train_type":"4 تخته درجه ی 1 نور",
+    "train_price":"۸۸۹۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۶:۱۰",
+    "arriving_hour":"۶:۵۰"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"شيراز",
+    "train_distance":"۱۰۵۰",
+    "train_type":"۴ تخته درجه ي1پلور سبز",
+    "train_price":"۷۶۹۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۶:۱۰",
+    "arriving_hour":"۶:۵۰"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"طبس",
+    "train_distance":"۵۵۰",
+    "train_type":"اتوبوسی مبله ",
+    "train_price":"۱۷۸۵۰",
+    "moving_days":"يكروز در ميان",
+    "moving_hour":"۲۳:۱۵",
+    "arriving_hour":"۵:۴۵"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"طبس",
+    "train_distance":"۵۵۰",
+    "train_type":"کوپه صندلی",
+    "train_price":"۲۲۱۵۰",
+    "moving_days":"يكروز در ميان",
+    "moving_hour":"۲۳:۱۵",
+    "arriving_hour":"۵:۴۵"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"طبس",
+    "train_distance":"۵۵۰",
+    "train_type":" کوپه چهارتخته",
+    "train_price":"۲۸۶۵۰",
+    "moving_days":"يكروز در ميان",
+    "moving_hour":"۲۳:۱۵",
+    "arriving_hour":"۵:۴۵"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"طبس",
+    "train_distance":"۱۳۰۰",
+    "train_type":"۶ تخته درجه يك پارسي",
+    "train_price":"۵۸۴۰۰",
+    "moving_days":"یکروز در میان",
+    "moving_hour":"۱۲:۲۵",
+    "arriving_hour":"۴:۴۰"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"فيروزکوه",
+    "train_distance":"۲۵۰",
+    "train_type":"اتوبوسي",
+    "train_price":"۳۵۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۴:۵۵",
+    "arriving_hour":"۸:۵۵"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"قزوين",
+    "train_distance":"۱۱۰۰",
+    "train_type":"4 تخته درجه 1",
+    "train_price":"۷۷۹۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱:۱۵",
+    "arriving_hour":"۱۵:۴۰"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"قزوين",
+    "train_distance":"۱۱۰۰",
+    "train_type":"4 تخته درجه 1 دلیجان",
+    "train_price":"۵۹۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱:۱۵",
+    "arriving_hour":"۱۵:۴۰"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"قزوين",
+    "train_distance":"۱۱۰۰",
+    "train_type":"6 صندلی درجه 2",
+    "train_price":"۳۵۱۹۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱:۱۵",
+    "arriving_hour":"۱۵:۴۰"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"قزوين",
+    "train_distance":"۱۴۴",
+    "train_type":"ريل باس ",
+    "train_price":"۴۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۶:۲۰",
+    "arriving_hour":"۱۸:۲۰"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"قم",
+    "train_distance":"۱۱۰۰",
+    "train_type":"۶ تخته درجه 1 پارسي",
+    "train_price":"۶۵۵۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۵:۱۵",
+    "arriving_hour":"۵:۵۵"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"قم",
+    "train_distance":"۱۱۰۰",
+    "train_type":"4 تخته درجه 1 پلور",
+    "train_price":"۹۴۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۲۳:۵۵",
+    "arriving_hour":"۱۵:۱۰"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"قم",
+    "train_distance":"۱۱۰۰",
+    "train_type":"4 تخته درجه 1",
+    "train_price":"۷۷۹۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۲۳:۵۵",
+    "arriving_hour":"۱۵:۱۰"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"قم",
+    "train_distance":"۱۱۰۰",
+    "train_type":"۶ صندلي درجه 2",
+    "train_price":"۳۵۳۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۲۳:۵۵",
+    "arriving_hour":"۱۵:۱۰"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"قم",
+    "train_distance":"۲۰۰",
+    "train_type":"پرديس تندرو",
+    "train_price":"۴۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۸:۱۰",
+    "arriving_hour":"۱۹:۵۰"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"قم",
+    "train_distance":"۲۰۰",
+    "train_type":"اتوبوسي دو طبقه تهويه دار صبا یک",
+    "train_price":"۴۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۶:۲۰",
+    "arriving_hour":"۸:۰۰"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"قم",
+    "train_distance":"۲۰۰",
+    "train_type":"اتوبوسي دو طبقه تهويه دار صبا دو",
+    "train_price":"۴۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۴:۳۰",
+    "arriving_hour":"۱۶:۲۰"
+  },
+  {
+    "train_ori_city":"سربندر",
+    "train_des_city":"كارون",
+    "train_distance":"۱۰۰",
+    "train_type":"اتوبوسي دو طبقه تهويه دار صبا یک",
+    "train_price":"۳۰۰۰",
+    "moving_days":"روزهاي اداري و پنج شنبه",
+    "moving_hour":"۸:۳۰",
+    "arriving_hour":"۹:۵۰"
+  },
+  {
+    "train_ori_city":"سربندر",
+    "train_des_city":"كارون",
+    "train_distance":"۱۰۰",
+    "train_type":"اتوبوسي دو طبقه تهويه دار صبا دو",
+    "train_price":"۳۰۰۰",
+    "moving_days":"روزهاي اداري و پنج شنبه",
+    "moving_hour":"۱۵:۴۵",
+    "arriving_hour":"۱۷:۰۰"
+  },
+  {
+    "train_ori_city":"سربندر",
+    "train_des_city":"كارون",
+    "train_distance":"۱۰۰",
+    "train_type":"اتوبوسي دو طبقه تهويه دار صبا سه",
+    "train_price":"۳۰۰۰",
+    "moving_days":"روزهاي اداري و پنج شنبه",
+    "moving_hour":"۱۷:۵۰",
+    "arriving_hour":"۱۹:۰۵"
+  },
+  {
+    "train_ori_city":"ماهشهر",
+    "train_des_city":"كارون",
+    "train_distance":"۱۰۰",
+    "train_type":"اتوبوسي دو طبقه تهويه دار صبا",
+    "train_price":"۳۰۰۰",
+    "moving_days":"روزهاي اداري و پنج شنبه",
+    "moving_hour":"۶:۳۵",
+    "arriving_hour":"۸:۱۵"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"كاشان",
+    "train_distance":"۱۲۵۰",
+    "train_type":"۴ تخته درجه 1پلور سبز",
+    "train_price":"۸۳۹۰۰",
+    "moving_days":"یکروز در میان",
+    "moving_hour":"۱۸:۵۵",
+    "arriving_hour":"۹:۵۵"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"كرج",
+    "train_distance":"۱۰۰۰",
+    "train_type":"۶ تخته درجه يك",
+    "train_price":"۵۴۵۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۰:۵۰",
+    "arriving_hour":"۱۳:۵۵"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"كرج",
+    "train_distance":"۱۰۰۰",
+    "train_type":"  ۶ تخته درجه دو",
+    "train_price":"۴۵۶۸۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۰:۵۰",
+    "arriving_hour":"۱۳:۵۵"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"كرج هشتگرد",
+    "train_distance":"۱۰۰",
+    "train_type":"ريل باس یک",
+    "train_price":"۱۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۶:۴۵",
+    "arriving_hour":"۷:۵۵"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"كرج هشتگرد",
+    "train_distance":"۱۰۰",
+    "train_type":"ريل باس دو ",
+    "train_price":"۱۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۴:۰۰",
+    "arriving_hour":"۱۵:۱۵"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"كرج هشتگرد",
+    "train_distance":"۱۰۰",
+    "train_type":"ريل باس سه",
+    "train_price":"۱۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۶:۵۰",
+    "arriving_hour":"۱۸:۰۵"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"كرج هشتگرد",
+    "train_distance":"۱۰۰",
+    "train_type":"ريل باس چهار",
+    "train_price":"۱۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۹:۰۰",
+    "arriving_hour":"۲۰:۱۵"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"كرج هشتگرد",
+    "train_distance":"۱۰۰",
+    "train_type":"ريل باس پنج",
+    "train_price":"۱۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۷:۴۵",
+    "arriving_hour":"۱۹:۰۰"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"كرمان",
+    "train_distance":"۱۱۵۰",
+    "train_type":"6 تخته درجه 1 پارسی",
+    "train_price":"۶۱۴۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۴:۲۰",
+    "arriving_hour":"۷:۲۵"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"كرمان",
+    "train_distance":"۱۱۵۰",
+    "train_type":"۴ تخته درجه 1  غزال",
+    "train_price":"۹۴۴۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۴:۲۰",
+    "arriving_hour":"۷:۲۵"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"كرمان",
+    "train_distance":"۱۰۰۰",
+    "train_type":"۶ تخته درجه ي1پارسي",
+    "train_price":"۵۸۴۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۸:۴۵",
+    "arriving_hour":"۹:۰۰"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"كرمان",
+    "train_distance":"۱۰۰۰",
+    "train_type":"۴ تخته درجه 1  پلور",
+    "train_price":"۱۰۵۹۰۰",
+    "moving_days":"يكروز در ميان",
+    "moving_hour":"۱۴:۵۰",
+    "arriving_hour":"۴:۲۵"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"گرگان",
+    "train_distance":"۵۰۰",
+    "train_type":"6 تخته درجه 2 ",
+    "train_price":"۱۹۶۵۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۹:۱۰",
+    "arriving_hour":"۵:۱۵"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"گرگان",
+    "train_distance":"۵۰۰",
+    "train_type":"اتوبوسی معمولی",
+    "train_price":"۱۳۲۱۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۹:۱۰",
+    "arriving_hour":"۵:۱۵"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"گرگان",
+    "train_distance":"۵۰۰",
+    "train_type":"4 تخته البرز",
+    "train_price":"۳۹۱۵۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۹:۱۰",
+    "arriving_hour":"۵:۱۵"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"گرگان",
+    "train_distance":"۵۰۰",
+    "train_type":"6 تخته درجه 1 پارسی یک",
+    "train_price":"۲۶۶۵۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۹:۱۰",
+    "arriving_hour":"۵:۱۵"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"گرگان",
+    "train_distance":"۵۰۰",
+    "train_type":"6 تخته درجه 1 پارسی دو",
+    "train_price":"۲۶۶۵۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۲۲:۵۰",
+    "arriving_hour":"۸:۴۰"
+  },
+  {
+    "train_ori_city":"پل سفيد",
+    "train_des_city":"گرگان",
+    "train_distance":"۲۵۰",
+    "train_type":"ريل باس  اتوبوسي تهويه دار یک",
+    "train_price":"۶۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۳:۰۰",
+    "arriving_hour":"۱۷:۲۰"
+  },
+  {
+    "train_ori_city":"پل سفيد",
+    "train_des_city":"گرگان",
+    "train_distance":"۲۵۰",
+    "train_type":"ريل باس  اتوبوسي تهويه دار دو",
+    "train_price":"۶۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۵:۱۵",
+    "arriving_hour":"۹:۲۵"
+  },
+  {
+    "train_ori_city":"پل سفيد",
+    "train_des_city":"گرگان",
+    "train_distance":"۲۵۰",
+    "train_type":"اتوبوسي",
+    "train_price":"۵۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۶:۲۰",
+    "arriving_hour":"۱۰:۱۵"
+  },
+  {
+    "train_ori_city":"اينچه برون",
+    "train_des_city":"گرگان",
+    "train_distance":"۹۳",
+    "train_type":"ريل باس  اتوبوسي تهويه دار یک",
+    "train_price":"۲۵۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۹:۱۰",
+    "arriving_hour":"۱۰:۳۵"
+  },
+  {
+    "train_ori_city":"اينچه برون",
+    "train_des_city":"گرگان",
+    "train_distance":"۹۳",
+    "train_type":"ريل باس  اتوبوسي تهويه دار دو",
+    "train_price":"۲۵۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۴:۳۰",
+    "arriving_hour":"۱۵:۵۵"
+  },
+  {
+    "train_ori_city":"كارون",
+    "train_des_city":"ماهشهر",
+    "train_distance":"۱۰۰",
+    "train_type":"اتوبوسي دو طبقه تهويه دار صبا",
+    "train_price":"۳۰۰۰",
+    "moving_days":"روزهاي اداري و پنج شنبه",
+    "moving_hour":"۱۸:۳۵",
+    "arriving_hour":"۲۰:۱۵"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"مراغه",
+    "train_distance":"۶۵۰",
+    "train_type":"6 تخته درجه 1",
+    "train_price":"۲۹۶۵۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۲۰:۰۰",
+    "arriving_hour":"۵:۵۵"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"مراغه",
+    "train_distance":"۶۵۰",
+    "train_type":"4 تخته درجه 1",
+    "train_price":"۴۰۶۵۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۲۰:۰۰",
+    "arriving_hour":"۵:۵۵"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"مراغه",
+    "train_distance":"۶۵۰",
+    "train_type":"۶ تخته درجه دو",
+    "train_price":"۲۳۶۵۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۲۰:۴۰",
+    "arriving_hour":"۷:۲۵"
+  },
+  {
+    "train_ori_city":"شاهرود",
+    "train_des_city":"مشهد",
+    "train_distance":"۵۰۰",
+    "train_type":"6 صندلی درجه 2",
+    "train_price":"۱۶۴۳۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۳:۴۵",
+    "arriving_hour":"۲۰:۴۰"
+  },
+  {
+    "train_ori_city":"شاهرود",
+    "train_des_city":"مشهد",
+    "train_distance":"۵۰۰",
+    "train_type":"۴تخته درجه يك",
+    "train_price":"۳۶۱۵۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۳:۴۵",
+    "arriving_hour":"۲۰:۴۰"
+  },
+  {
+    "train_ori_city":"سمنان",
+    "train_des_city":"مشهد",
+    "train_distance":"۷۰۰",
+    "train_type":"6 صندلی درجه 2",
+    "train_price":"۲۱۹۸۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۲:۱۵",
+    "arriving_hour":"۲۱:۴۵"
+  },
+  {
+    "train_ori_city":"سمنان",
+    "train_des_city":"مشهد",
+    "train_distance":"۷۰۰",
+    "train_type":"  ۴ تخته درجه يك ",
+    "train_price":"۴۷۲۵۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۲:۱۵",
+    "arriving_hour":"۲۱:۴۵"
+  },
+  {
+    "train_ori_city":"ازادور",
+    "train_des_city":"مشهد",
+    "train_distance":"۳۵۰",
+    "train_type":"اتوبوسي تهويه دار",
+    "train_price":"۶۴۵۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۴:۲۵",
+    "arriving_hour":"۸:۴۵"
+  },
+  {
+    "train_ori_city":"طبس",
+    "train_des_city":"مشهد",
+    "train_distance":"۵۵۰",
+    "train_type":"اتوبوسی مبله ",
+    "train_price":"۱۷۸۵۰",
+    "moving_days":"يكروز در ميان",
+    "moving_hour":"۲۳:۴۵",
+    "arriving_hour":"۶:۵۵"
+  },
+  {
+    "train_ori_city":"طبس",
+    "train_des_city":"مشهد",
+    "train_distance":"۵۵۰",
+    "train_type":"کوپه صندلی",
+    "train_price":"۲۲۱۵۰",
+    "moving_days":"يكروز در ميان",
+    "moving_hour":"۲۳:۴۵",
+    "arriving_hour":"۶:۵۵"
+  },
+  {
+    "train_ori_city":"طبس",
+    "train_des_city":"مشهد",
+    "train_distance":"۵۵۰",
+    "train_type":" کوپه چهارتخته",
+    "train_price":"۲۸۶۵۰",
+    "moving_days":"يكروز در ميان",
+    "moving_hour":"۲۳:۴۵",
+    "arriving_hour":"۶:۵۵"
+  },
+  {
+    "train_ori_city":"اصفهان",
+    "train_des_city":"مشهد",
+    "train_distance":"۱۵۰۰",
+    "train_type":"4 تخته درجه 1 غزال",
+    "train_price":"۹۷۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۵:۱۵",
+    "arriving_hour":"۹:۲۰"
+  },
+  {
+    "train_ori_city":"اصفهان",
+    "train_des_city":"مشهد",
+    "train_distance":"۱۵۰۰",
+    "train_type":"۴ تخته درجه ي 1 نور یک",
+    "train_price":"۱۰۶۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۵:۱۵",
+    "arriving_hour":"۹:۲۰"
+  },
+  {
+    "train_ori_city":"اصفهان",
+    "train_des_city":"مشهد",
+    "train_distance":"۱۵۰۰",
+    "train_type":"۴ تخته درجه ي 1 نور دو",
+    "train_price":"۱۰۶۰۰۰",
+    "moving_days":"يكروز در ميان",
+    "moving_hour":"۱۶:۰۰",
+    "arriving_hour":"۱۰:۵۵"
+  },
+  {
+    "train_ori_city":"تبريز",
+    "train_des_city":"مشهد",
+    "train_distance":"۱۷۰۰",
+    "train_type":"4 تخته درجه 1 خلیج فارس",
+    "train_price":"۹۲۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۰:۴۰",
+    "arriving_hour":"۱۱:۲۵"
+  },
+  {
+    "train_ori_city":"تبريز",
+    "train_des_city":"مشهد",
+    "train_distance":"۱۷۰۰",
+    "train_type":"لوکس 4 نفره",
+    "train_price":"۱۰۶۵۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۰:۴۰",
+    "arriving_hour":"۱۱:۲۵"
+  },
+  {
+    "train_ori_city":"تبريز",
+    "train_des_city":"مشهد",
+    "train_distance":"۱۷۰۰",
+    "train_type":"6 تخته درجه 1",
+    "train_price":"۱۰۹۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۹:۳۵",
+    "arriving_hour":"۱۰:۰۰"
+  },
+  {
+    "train_ori_city":"تبريز",
+    "train_des_city":"مشهد",
+    "train_distance":"۱۷۰۰",
+    "train_type":"4 تخته درجه 1",
+    "train_price":"۶۸۵۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۹:۳۵",
+    "arriving_hour":"۱۰:۰۰"
+  },
+  {
+    "train_ori_city":"اهواز",
+    "train_des_city":"مشهد",
+    "train_distance":"۱۷۵۰",
+    "train_type":"۶ تخته درجه يك پارسي",
+    "train_price":"۹۳۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۰:۱۵",
+    "arriving_hour":"۱۴:۰۰"
+  },
+  {
+    "train_ori_city":"اراک",
+    "train_des_city":"مشهد",
+    "train_distance":"۱۳۰۰",
+    "train_type":"4 تخته درجه 1 خلیج فارس",
+    "train_price":"۷۱۲۵۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۵:۵۰",
+    "arriving_hour":"۸:۳۰"
+  },
+  {
+    "train_ori_city":"ملایر",
+    "train_des_city":"مشهد",
+    "train_distance":"۱۴۰۰",
+    "train_type":"4 تخته درجه 1 خلیج فارس",
+    "train_price":"۸۰۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۲:۴۵",
+    "arriving_hour":"۸:۳۰"
+  },
+  {
+    "train_ori_city":"قم",
+    "train_des_city":"مشهد",
+    "train_distance":"۱۱۰۰",
+    "train_type":"۶ تخته درجه 1 پارسي",
+    "train_price":"۶۵۵۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۳:۵۵",
+    "arriving_hour":"۴:۰۰"
+  },
+  {
+    "train_ori_city":"قم",
+    "train_des_city":"مشهد",
+    "train_distance":"۱۱۰۰",
+    "train_type":"4 تخته درجه 1 پلور",
+    "train_price":"۹۴۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۲۱:۳۵",
+    "arriving_hour":"۱۱:۵۰"
+  },
+  {
+    "train_ori_city":"قم",
+    "train_des_city":"مشهد",
+    "train_distance":"۱۱۰۰",
+    "train_type":"4 تخته درجه 1",
+    "train_price":"۷۷۹۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۲۱:۳۵",
+    "arriving_hour":"۱۱:۵۰"
+  },
+  {
+    "train_ori_city":"قم",
+    "train_des_city":"مشهد",
+    "train_distance":"۱۱۰۰",
+    "train_type":"۶ صندلي درجه 2",
+    "train_price":"۳۵۳۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۲۱:۳۵",
+    "arriving_hour":"۱۱:۵۰"
+  },
+  {
+    "train_ori_city":"زنجان",
+    "train_des_city":"مشهد",
+    "train_distance":"۱۲۵۰",
+    "train_type":"۴ تخته درجه يك",
+    "train_price":"۸۰۹۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۲۰:۵۰",
+    "arriving_hour":"۱۳:۲۰"
+  },
+  {
+    "train_ori_city":"زنجان",
+    "train_des_city":"مشهد",
+    "train_distance":"۱۲۵۰",
+    "train_type":"۶ صندلي درجه دو",
+    "train_price":"۳۷۴۱۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۲۰:۵۰",
+    "arriving_hour":"۱۳:۲۰"
+  },
+  {
+    "train_ori_city":"قزوين",
+    "train_des_city":"مشهد",
+    "train_distance":"۱۱۰۰",
+    "train_type":"4 تخته درجه 1",
+    "train_price":"۷۷۹۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۲۲:۲۵",
+    "arriving_hour":"۱۲:۵۵"
+  },
+  {
+    "train_ori_city":"قزوين",
+    "train_des_city":"مشهد",
+    "train_distance":"۱۱۰۰",
+    "train_type":"4 تخته درجه 1 دلیجان",
+    "train_price":"۵۹۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۲۲:۲۵",
+    "arriving_hour":"۱۲:۵۵"
+  },
+  {
+    "train_ori_city":"قزوين",
+    "train_des_city":"مشهد",
+    "train_distance":"۱۱۰۰",
+    "train_type":"6 صندلی درجه 2",
+    "train_price":"۳۵۱۹۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۲۲:۲۵",
+    "arriving_hour":"۱۲:۵۵"
+  },
+  {
+    "train_ori_city":"کرج",
+    "train_des_city":"مشهد",
+    "train_distance":"۱۰۰۰",
+    "train_type":"۶ تخته درجه 1",
+    "train_price":"۵۴۵۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۲۳:۲۰",
+    "arriving_hour":"۱۲:۱۰"
+  },
+  {
+    "train_ori_city":"کرج",
+    "train_des_city":"مشهد",
+    "train_distance":"۱۰۰۰",
+    "train_type":"  ۶ تخته درجه 2",
+    "train_price":"۴۵۶۸۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۲۳:۲۰",
+    "arriving_hour":"۱۲:۱۰"
+  },
+  {
+    "train_ori_city":"کاشان",
+    "train_des_city":"مشهد",
+    "train_distance":"۱۲۵۰",
+    "train_type":"۴ تخته درجه 1پلور سبز",
+    "train_price":"۸۳۹۰۰",
+    "moving_days":"یکروز در میان",
+    "moving_hour":"۱۵:۱۰",
+    "arriving_hour":"۶:۰۰"
+  },
+  {
+    "train_ori_city":"يزد",
+    "train_des_city":"مشهد",
+    "train_distance":"۱۰۰۰",
+    "train_type":"۴ تخته درجه 1غزال",
+    "train_price":"۸۶۹۰۰",
+    "moving_days":"یکروز در میان",
+    "moving_hour":"۱۶:۲۵",
+    "arriving_hour":"۶:۵۵"
+  },
+  {
+    "train_ori_city":"کرمان",
+    "train_des_city":"مشهد",
+    "train_distance":"۱۱۵۰",
+    "train_type":"6 تخته درجه 1 پارسی",
+    "train_price":"۶۱۴۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۲:۱۵",
+    "arriving_hour":"۵:۱۵"
+  },
+  {
+    "train_ori_city":"کرمان",
+    "train_des_city":"مشهد",
+    "train_distance":"۱۱۵۰",
+    "train_type":"۴ تخته درجه 1  غزال",
+    "train_price":"۹۴۴۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۲:۱۵",
+    "arriving_hour":"۵:۱۵"
+  },
+  {
+    "train_ori_city":"بندرعباس",
+    "train_des_city":"مشهد",
+    "train_distance":"۱۵۰۰",
+    "train_type":"۴ تخته درجه 1  غزال",
+    "train_price":"۱۱۲۵۰۰",
+    "moving_days":"یکروز در میان",
+    "moving_hour":"۱۵:۴۰",
+    "arriving_hour":"۱۲:۳۵"
+  },
+  {
+    "train_ori_city":"ساري",
+    "train_des_city":"مشهد",
+    "train_distance":"۱۱۰۰",
+    "train_type":"4 تخته درجه 1 البرز",
+    "train_price":"۷۶۳۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۸:۰۰",
+    "arriving_hour":"۱۰:۳۵"
+  },
+  {
+    "train_ori_city":"ساري",
+    "train_des_city":"مشهد",
+    "train_distance":"۱۱۰۰",
+    "train_type":"۴ تخته درجه 1 دليجان",
+    "train_price":"۴۹۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۸:۰۰",
+    "arriving_hour":"۱۰:۳۵"
+  },
+  {
+    "train_ori_city":"شيراز",
+    "train_des_city":"مشهد",
+    "train_distance":"۱۷۵۰",
+    "train_type":"۴ تخته درجه 1پلور سبز یک",
+    "train_price":"۱۰۵۰۰۰",
+    "moving_days":"یکروز در میان",
+    "moving_hour":"۱۱:۳۵",
+    "arriving_hour":"۱۲:۳۵"
+  },
+  {
+    "train_ori_city":"نيشابور",
+    "train_des_city":"مشهد",
+    "train_distance":"۱۳۸",
+    "train_type":"اتوبوسي دو طبقه تهويه دار صبا",
+    "train_price":"۵۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۴:۴۵",
+    "arriving_hour":"۶:۲۰"
+  },
+  {
+    "train_ori_city":"سرخس",
+    "train_des_city":"مشهد",
+    "train_distance":"۲۰۰",
+    "train_type":"اتوبوسي",
+    "train_price":"۶۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۵:۱۰",
+    "arriving_hour":"۸:۱۵"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"مشهد",
+    "train_distance":"۹۵۰",
+    "train_type":"پرديس تندرو یک",
+    "train_price":"۸۰۴۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۷:۰۰",
+    "arriving_hour":"۱۴:۵۰"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"مشهد",
+    "train_distance":"۹۵۰",
+    "train_type":"پرديس تندرو دو",
+    "train_price":"۸۰۴۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۷:۲۵",
+    "arriving_hour":"۱۵:۲۰"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"مشهد",
+    "train_distance":"۹۵۰",
+    "train_type":"پرديس تندرو سه",
+    "train_price":"۸۰۴۰۰",
+    "moving_days":"يک روز درميان",
+    "moving_hour":"۸:۰۰",
+    "arriving_hour":"۱۵:۵۵"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"مشهد",
+    "train_distance":"۹۵۰",
+    "train_type":"اتوبوسي دو طبقه تهويه دار صبا یک",
+    "train_price":"۴۴۰۷۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۸:۲۰",
+    "arriving_hour":"۱۸:۲۵"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"مشهد",
+    "train_distance":"۹۵۰",
+    "train_type":"اتوبوسي دو طبقه تهويه دار صبا دو",
+    "train_price":"۴۴۰۷۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۹:۰۰",
+    "arriving_hour":"۲۱:۲۵"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"مشهد",
+    "train_distance":"۹۵۰",
+    "train_type":"۴ تخته درجه يك مارال",
+    "train_price":"۵۶۰۰۰",
+    "moving_days":"یکروز در میان",
+    "moving_hour":"۲۳:۱۵",
+    "arriving_hour":"۱۰:۵۵"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"مشهد",
+    "train_distance":"۹۵۰",
+    "train_type":"6 صندلی درجه 2",
+    "train_price":"۴۹۹۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۴:۰۰",
+    "arriving_hour":"۱:۵۵"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"مشهد",
+    "train_distance":"۹۵۰",
+    "train_type":"6 تخته درجه 1 میلاد",
+    "train_price":"۵۵۹۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۴:۰۰",
+    "arriving_hour":"۱:۵۵"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"مشهد",
+    "train_distance":"۹۵۰",
+    "train_type":" ۶ تخته درجه 1 یک",
+    "train_price":"۵۵۹۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۴:۰۰",
+    "arriving_hour":"۱:۵۵"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"مشهد",
+    "train_distance":"۹۵۰",
+    "train_type":"اتوبوسی",
+    "train_price":"۶۰۴۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۲۱:۲۰",
+    "arriving_hour":"۹:۰۰"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"مشهد",
+    "train_distance":"۹۵۰",
+    "train_type":"6 تخته لوکس",
+    "train_price":"۶۲۴۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۲۱:۲۰",
+    "arriving_hour":"۹:۰۰"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"مشهد",
+    "train_distance":"۹۵۰",
+    "train_type":"۶ تخته درجه يك كوير",
+    "train_price":"۵۷۴۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۵:۱۵",
+    "arriving_hour":"۲:۵۵"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"مشهد",
+    "train_distance":"۹۵۰",
+    "train_type":"4 تخته درجه 1 خلیج فارس",
+    "train_price":"۶۵۹۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۶:۰۰",
+    "arriving_hour":"۳:۴۵"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"مشهد",
+    "train_distance":"۹۵۰",
+    "train_type":"لوكس ۴ نفره اكسپرس",
+    "train_price":"۷۵۹۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۶:۰۰",
+    "arriving_hour":"۳:۴۵"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"مشهد",
+    "train_distance":"۹۵۰",
+    "train_type":"۴ تخته درجه يك غزال یک",
+    "train_price":"۸۴۳۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۲۰:۰۰",
+    "arriving_hour":"۷:۳۵"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"مشهد",
+    "train_distance":"۹۵۰",
+    "train_type":"۴ تخته درجه يك سیمرغ",
+    "train_price":"۷۸۹۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۷:۱۵",
+    "arriving_hour":"۴:۵۰"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"مشهد",
+    "train_distance":"۹۵۰",
+    "train_type":"۴ تخته درجه يك نگين",
+    "train_price":"۷۲۹۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۶:۵۰",
+    "arriving_hour":"۴:۲۵"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"مشهد",
+    "train_distance":"۹۵۰",
+    "train_type":"۴تخته درجه يك پلور یک",
+    "train_price":"۷۹۴۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۷:۵۵",
+    "arriving_hour":"۵:۳۵"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"مشهد",
+    "train_distance":"۹۵۰",
+    "train_type":"ويژه مجلل زندگي",
+    "train_price":"۱۵۰۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۷:۵۵",
+    "arriving_hour":"۵:۳۵"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"مشهد",
+    "train_distance":"۹۵۰",
+    "train_type":"۴ تخته درجه يك نور",
+    "train_price":"۹۱۹۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۸:۳۵",
+    "arriving_hour":"۶:۴۰"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"مشهد",
+    "train_distance":"۹۵۰",
+    "train_type":"4 تخته درجه یک پلور دو",
+    "train_price":"۸۵۴۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۲۲:۰۰",
+    "arriving_hour":"۹:۴۰"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"مشهد",
+    "train_distance":"۹۵۰",
+    "train_type":"4 تخته درجه 1 سروش",
+    "train_price":"۸۴۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۲۲:۰۰",
+    "arriving_hour":"۹:۴۰"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"مشهد",
+    "train_distance":"۹۵۰",
+    "train_type":"لوکس 4 نفره نگین",
+    "train_price":"۶۴۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۲۲:۰۰",
+    "arriving_hour":"۹:۴۰"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"مشهد",
+    "train_distance":"۹۵۰",
+    "train_type":"لوكس۶نفري نگين",
+    "train_price":"۴۹۹۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۲۲:۰۰",
+    "arriving_hour":"۹:۴۰"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"مشهد",
+    "train_distance":"۹۵۰",
+    "train_type":"4 تخته درجه یک غزال دو",
+    "train_price":"۸۴۳۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۹:۳۵",
+    "arriving_hour":"۷:۱۵"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"مشهد",
+    "train_distance":"۹۵۰",
+    "train_type":"vip غزال",
+    "train_price":"۸۶۱۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۹:۳۵",
+    "arriving_hour":"۷:۱۵"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"مشهد",
+    "train_distance":"۹۵۰",
+    "train_type":"4 تخته درجه یک غزال سه",
+    "train_price":"۸۴۳۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۹:۳۵",
+    "arriving_hour":"۷:۱۵"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"مشهد",
+    "train_distance":"۹۵۰",
+    "train_type":"۴ تخته درجه 1  سبز",
+    "train_price":"۷۸۹۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۲۰:۲۵",
+    "arriving_hour":"۸:۰۰"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"مشهد",
+    "train_distance":"۹۵۰",
+    "train_type":"۶ تخته درجه 1 دو",
+    "train_price":"۵۴۴۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۴:۴۰",
+    "arriving_hour":"۲:۲۰"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"مشهد",
+    "train_distance":"۹۵۰",
+    "train_type":"۶ تخته درجه دو",
+    "train_price":"۴۲۳۵۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱:۴۵",
+    "arriving_hour":"۱۳:۴۰"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"ملایر",
+    "train_distance":"۱۴۰۰",
+    "train_type":"4 تخته درجه 1 خلیج فارس",
+    "train_price":"۸۰۰۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۴:۵۰",
+    "arriving_hour":"۱۰:۳۰"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"ميانه",
+    "train_distance":"۴۵۰",
+    "train_type":"پرديس تندرو",
+    "train_price":"۲۷۶۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۴:۳۵",
+    "arriving_hour":"۲۰:۳۰"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"ميانه",
+    "train_distance":"۴۵۰",
+    "train_type":"اتوبوسي",
+    "train_price":"۱۲۱۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۵:۳۰",
+    "arriving_hour":"۱۱:۵۵"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"ميانه",
+    "train_distance":"۴۵۰",
+    "train_type":"اتوبوسي تهويه دار",
+    "train_price":"۱۶۶۰۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۵:۳۵",
+    "arriving_hour":"۲۲:۴۰"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"نيشابور",
+    "train_distance":"۸۰۰",
+    "train_type":"6 صندلی درجه 2",
+    "train_price":"۲۵۳۱۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۱:۳۵",
+    "arriving_hour":"۲۲:۲۰"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"نيشابور",
+    "train_distance":"۸۰۰",
+    "train_type":" تخته درجه 1 ميلاد ",
+    "train_price":"۴۸۲۵۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۱:۳۵",
+    "arriving_hour":"۲۲:۲۰"
+  },
+  {
+    "train_ori_city":"تبريز",
+    "train_des_city":"وان",
+    "train_distance":"۳۵۰",
+    "train_type":"۶ صندلي درجه دو",
+    "train_price":"۴۶۰۵۰",
+    "moving_days":"دوشنبه",
+    "moving_hour":"۲۲:۳۵",
+    "arriving_hour":"۸:۳۰"
+  },
+  {
+    "train_ori_city":"مشهد",
+    "train_des_city":"يزد",
+    "train_distance":"۱۰۰۰",
+    "train_type":"۴ تخته درجه ي1 غزال",
+    "train_price":"۸۶۹۰۰",
+    "moving_days":"یکروز در میان",
+    "moving_hour":"۱۸:۵۵",
+    "arriving_hour":"۹:۰۰"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"يزد",
+    "train_distance":"۶۵۰",
+    "train_type":"پرديس تندرو",
+    "train_price":"۳۹۱۵۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۱۷:۴۰",
+    "arriving_hour":"۲۲:۵۵"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"يزد",
+    "train_distance":"۶۵۰",
+    "train_type":"اتوبوسي دو طبقه تهويه دار صبا",
+    "train_price":"۲۵۶۵۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۲۱:۲۰",
+    "arriving_hour":"۵:۰۵"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"يزد",
+    "train_distance":"۶۵۰",
+    "train_type":"4 تخته درجه 1  پلور سبز",
+    "train_price":"۴۹۱۵۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۲۱:۲۰",
+    "arriving_hour":"۵:۰۵"
+  },
+  {
+    "train_ori_city":"تهران",
+    "train_des_city":"يزد",
+    "train_distance":"۶۵۰",
+    "train_type":"۶ تخته درجه 1پارسي",
+    "train_price":"۳۷۱۵۰",
+    "moving_days":"همه روزه",
+    "moving_hour":"۲۱:۲۰",
+    "arriving_hour":"۵:۰۵"
+  }
+]

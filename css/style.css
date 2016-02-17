@@ -10,12 +10,35 @@ body, .bar-assertive > h1, .button {
     font-size: 14px;
     word-spacing: 3px;
 }
-.bar-assertive > h1.title {
+.popup-container .popup .popup-head h3 {
+    font-family: "yekan";
+    font-size: 18px;
+    color: #212121;
+}
+.popup-container .popup .popup-body span {
+    font-size: 14px;
+    color: #212121;
+}
+.popup-container .popup {
+    background-color: #E7EFF2;
+    border: 5px solid #454545;
+    border-radius: 5px;
+    direction: rtl;
+    width: 310px;
+}
+#bus-page {
+    background-image: url(../img/bus-back.jpg);
+    background-repeat: no-repeat;  
+    background-position: 0px 0px;
+    background-size: 130% 100%;
+}
+.bar.bar-assertive > h1.title {
     text-align: center;
     padding: 0px;
 }
 .city-selection-container {
     direction: rtl;
+    background-color: #E7EFF2;
 }
 .des, .ori {
     padding: 0px;
@@ -44,13 +67,25 @@ body, .bar-assertive > h1, .button {
     background-color: #E0E0E0;
 }
 .city-search {
-    background-color: rgb(51, 51, 51);  
+    background-color: #387EF5;  
 }
 .city-search input {
     font-family: "yekan";
     font-size: 14px; 
     direction: rtl;
     color: #fff;
+}
+.city-search input::-moz-placeholder {
+    color: #fff;
+    opacity: 1;
+}
+.city-search input::-webkit-input-placeholder {
+    color: #fff;
+    opacity: 1;
+}
+.city-search input:-ms-input-placeholder {
+    color: #fff;
+    opacity: 1;
 }
 span.state-title {
     margin: 5px 5px 5px 5px;
@@ -78,8 +113,15 @@ span.state-title {
     margin: 0px 3%;
     width: 94%; 
 }
+#find-bus-button-container {
+    background-color: #E7EFF2;
+    padding: 0px 5px 20px 5px;
+}
 .begin .item-select, .end .item-select {
     border-radius: 5px;
+}
+.bar.bar-assertive .title {
+    text-align: center;
 }
 /*--------------------------results card design----------------------*/
 #bus-result-container {
@@ -107,7 +149,10 @@ span.state-title {
     padding: 0px 5px;
     width: 100%;
     float: left;
-    background-color: #F6C92B;
+    background-color: #FFAC34;
+}
+.results-card {
+    background-color: #E7EFF2;
 }
 .results-card .item-divider.divider-header {
     display: block;
@@ -154,15 +199,19 @@ span.state-title {
     padding: 10px 5px;
     width: 52%;
     float: left;
+    background-color: #E7EFF2;
 }
 .city-select-label {
     display: block;
     padding: 10px;
     font-size: 16px;
     text-align: center;
-    background-color: #F6C92B;
+    background-color: #FFAC34;
     margin: 10px 0px;
     border-radius: 5px;
+}
+.city-search .icon {
+    color: #fff;
 }
 /*------------------------bus results section divider ------------------------*/
 .results-divider {
@@ -174,10 +223,10 @@ span.state-title {
     margin: 0px 0px 0px 10px;
     color: #333;
     float: right;
-    word-spacing: 0px;
+    word-spacing: 3px;
     font-size: 14px;
     direction: ltr;
-    flex-grow: 1;
+    flex: 1 0 auto;
 }
 .bus-type-item {
     display: block;
@@ -200,7 +249,7 @@ span.state-title {
     margin: 10px 0px 10px 5px;
     display: inline-block;
     padding: 0px 0px 0px 0px;
-    flex-grow: 11;
+    flex: 11 0 auto;
     text-align: left;
 }
 .bus-distance {
@@ -210,15 +259,35 @@ span.state-title {
     padding: 0px 0px 0px 0px;  
     font-size: 16px;
     direction: ltr;
-    flex-grow: 11;
+    flex: 11 0 auto;
     text-align: left;
 }
 /*-----------------------Menu styles------------------------*/
 [nav-bar-transition="ios"] [nav-bar="active"] .bar, [nav-bar-transition="ios"] [nav-bar="entering"] .bar {
     background: inherit;
 }
+.main-bar {
+    background-color: #008F97;
+    color: #fff;
+    border: #171717;
+}
+.main-bar div.title.header-item {
+    text-align: center;
+    left: 45px;
+    right: 0px;
+}
+.main-bar .buttons-right .button {
+    color: #fff;
+}
+.main-bar > h1 {
+    font-family: "yekan";
+    font-size: 16px;
+    color: #fff;
+    text-align: center;
+}
 #main-menu {
     direction: rtl;
+    background: url(../img/l71.png);
 }
 .main-menu-icon {
     font-size: 28px;
@@ -226,13 +295,13 @@ span.state-title {
     margin: 0px 5px; 
 }
 .item-complex > a.item-content {
-    padding: 0px;
+    padding: 15px 0px;
 }
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, i, u, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, fieldset, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
     vertical-align: middle !important; 
 }
 .main-menu-item {
-    padding: 15px 10px 15px 10px;
+    padding: 0px 10px 0px 10px;
 }
 .main-menu-item-text {
     display: inline-block;
@@ -240,10 +309,143 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
     font-size: 16px;
     padding: 5px 0px;
 }
+/*---------------------------------------Home screen design styles-------------------------------------------*/
+#home-screen {
+    background: url(../img/l71.png);
+    padding-top: 40px;
+}
+#main-p-button-container {
+    display: block;
+    margin: 0px auto;
+    position: relative;
+    padding: 5px;
+    width: 84%;
+}
+.main-p-section {
+    display: block;
+    margin: 0px auto 15px auto;
+    position: relative;
+    padding: 5px;
+    width: 50%;
+    height: auto;
+    min-height: 350px;
+    text-decoration: none;
+    float: left;
+}
+.mpbus {
+    background: url(../img/main-p-bus.jpg) no-repeat;
+    background-size: 100%;
+    background-position: 0px 20%;
+    border: 3px solid #fff;
+    border-radius: 3px;
+}
+.mptrain{
+    background: url(../img/99.png) no-repeat;
+    background-size: 100% 100%;
+    background-position: 0px 10%;
+    border: 3px solid #fff;
+    border-radius: 3px;
+}
+.main-p-button-text {
+    color: rgb(35, 38, 42);
+    font-size: 17px;
+    padding: 6px;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    width: 80%;
+    margin: 5px auto;
+    border-radius: 5px;
+}
+
+.nav-back-button {
+    font-size: 24px;
+    color: #fff;
+    padding: 0px 5px;
+}
+.bar .back-button .back-text {
+    display: none;
+}
+.exit-alert button {
+    margin: 10px;
+}
+/*---------------------------------------help screen design styles-------------------------------------------*/
+#help-page {
+    background: url(../img/l71.png) repeat;
+}
+.help-menu-image {
+    display: block;
+    width: 50px;
+    height: 50px;
+    margin: 10px 10px 10px 10px;
+    position: relative;
+    float: right;
+}
+
+.help-menu-title {
+    display: block;
+    width: auto;
+    padding: 5px;
+    margin: 20px 5px;
+    position: relative;
+    float: right;
+    font-size: 16px;
+}
+.help-item {
+    width: 100%;
+    float: none;
+}
+#detail-page {
+    background: url(../img/l71.png) repeat;
+}
+.help-page-title {
+    display: block;
+    width: 90%;
+    padding: 5px;
+    margin: 20px auto;
+    position: relative;
+    font-size: 17px;
+    font-weight: 800;
+    line-height: 1.8em;
+    color: #333;
+    text-align: center;
+}
+.help-page-content {
+    display: block;
+    width: 96%;
+    padding: 5px;
+    margin: 5px auto;
+    position: relative;
+    color: #333;
+}
+.help-page-content-container {
+    display: block;
+    width: 100%;
+    padding: 5px 10px 5px 5px;
+    margin: 5px auto;
+    position: relative;
+    color: #333;
+    background-color: #fff;
+    border-radius: 5px;
+}
+.help-page-content-item {
+    display: block;
+    width: 100%;
+    padding: 0px;
+    margin: 10px auto;
+    position: relative;
+    font-size: 15px;
+    color: #272727;
+    text-align: right;
+    line-height: 1.8em;
+}
+/*---------------------------------------Train view design styles-------------------------------------------*/
 /*------------------------Tablets-------------------------*/
 /*---------------680px to 950px--------------------------*/
-@media (min-width: 768px) {
-    
+@media (min-width: 769px) {
+.help-item {
+    width: 50%;
+    float: right;
+}
 }
 /*------------------------Tablets-------------------------*/
 /*---------------680px to 950px--------------------------*/
@@ -278,7 +480,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
     position: relative;
     height: auto;
     float: none;
-}
+} 
     
 }
 /*------------------------Tablets-------------------------*/
@@ -318,6 +520,12 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
     height: auto;
     float: none;
 }
+#bus-page {
+    background-image: url(../img/bus-back.jpg);
+    background-repeat: no-repeat;  
+    background-position: 0px 100%;
+    background-size: contain;
+}  
 .results-card .results-divider {
     display: block;
 }
@@ -339,5 +547,157 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
     padding: 2%;
     list-style-type: none;
 }
+    
+}
+/*---------------(min-width: 801px) and (max-width: 1024px)--------------------------*/
+@media (min-width: 801px) and (max-width: 1024px) {
+/*---------------------------------------Home screen design styles-------------------------------------------*/  
+.main-p-section {
+    display: block;
+    margin: 0px 1% 0px 1%;
+    position: relative;
+    padding: 5px;
+    width: 48%;
+    height: auto;
+    min-height: 270px;
+}
+.mpbus {
+    background: url(../img/main-p-bus.jpg) no-repeat;
+    background-size: cover;
+    background-position: 0% 5%;
+    border: 3px solid #fff;
+    border-radius: 3px;
+    float: left;
+}
+.mptrain{
+    background: url(../img/99.png) no-repeat;
+    background-size: 100% 100%;
+    background-position: 0px 10%;
+    border: 3px solid #fff;
+    border-radius: 3px;
+    float: right;
+} 
+#main-p-button-container {
+    width: 86%;
+    margin: 0px auto;
+}
+
+    
+}
+/*---------------(min-width: 651px) and (max-width: 800px)--------------------------*/
+@media (min-width: 651px) and (max-width: 800px) {
+/*---------------------------------------Home screen design styles-------------------------------------------*/  
+.main-p-section {
+    display: block;
+    margin: 0px 1% 0px 1%;
+    position: relative;
+    padding: 5px;
+    width: 48%;
+    height: auto;
+    min-height: 260px;
+}
+.mpbus {
+    background: url(../img/main-p-bus.jpg) no-repeat;
+    background-size: cover;
+    background-position: 0px 0%;
+    border: 3px solid #fff;
+    border-radius: 3px;
+    float: left;
+}
+.mptrain{
+    background: url(../img/99.png) no-repeat;
+    background-size: 100% 100%;
+    background-position: 0px 10%;
+    border: 3px solid #fff;
+    border-radius: 3px;
+    float: right;
+} 
+#main-p-button-container {
+    width: 90%;
+    margin: 0px auto;
+}
+.help-menu-image {
+    display: block;
+    width: 70px;
+    height: 70px;
+    margin: 10px 10px 10px 10px;
+    position: relative;
+    float: right;
+}
+
+.help-menu-title {
+    display: block;
+    width: auto;
+    padding: 5px;
+    margin: 30px 5px;
+    position: relative;
+    float: right;
+    font-size: 18px;
+}
+    
+}
+/*---------------(min-width: 360px) and (max-width: 500px)--------------------------*/
+@media (min-width: 501px) and (max-width: 650px) {
+/*---------------------------------------Home screen design styles-------------------------------------------*/  
+.main-p-section {
+    display: block;
+    margin: 0px auto 15px auto;
+    position: relative;
+    padding: 5px;
+    width: 100%;
+    height: auto;
+    min-height: 220px;
+}
+.mpbus {
+    background: url(../img/main-p-bus.jpg) no-repeat;
+    background-size: cover;
+    background-position: 0px 20%;
+    border: 3px solid #fff;
+    border-radius: 3px;
+}
+.mptrain{
+    background: url(../img/99.png) no-repeat;
+    background-size: 100% 100%;
+    background-position: 0px 10%;
+    border: 3px solid #fff;
+    border-radius: 3px;
+} 
+#main-p-button-container {
+    width: 54%;
+}
+
+    
+}
+/*---------------(min-width: 360px) and (max-width: 500px)--------------------------*/
+@media (max-width: 500px) {
+/*---------------------------------------Home screen design styles-------------------------------------------*/  
+.main-p-section {
+    display: block;
+    margin: 0px auto 20px auto;
+    position: relative;
+    padding: 5px;
+    width: 100%;
+    height: auto;
+    min-height: 220px;
+}
+.mpbus {
+    background: url(../img/main-p-bus.jpg) no-repeat;
+    background-size: cover;
+    background-position: 0px 20%;
+    border: 3px solid #fff;
+    border-radius: 3px;
+}
+.mptrain{
+    background: url(../img/99.png) no-repeat;
+    background-size: 100% 100%;
+    background-position: 0px 10%;
+    border: 3px solid #fff;
+    border-radius: 3px;
+} 
+#main-p-button-container {
+    width: 80%;
+    margin: 0px auto;
+}
+
     
 }

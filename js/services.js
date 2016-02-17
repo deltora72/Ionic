@@ -1,47 +1,42 @@
 angular.module('starter.services', [])
 
-.factory('Chats', function() {
+.factory('questions', function() {
   // Might use a resource here that returns a JSON array
 
   // Some fake testing data
-  var chats = [{
-    id: 0,
-    name: 'Ben Sparrow',
-    lastText: 'You on your way?',
-    face: 'img/ben.png'
-  }, {
+  var questionList = [
+  {
     id: 1,
-    name: 'Max Lynx',
-    lastText: 'Hey, it\'s me',
-    face: 'img/max.png'
-  }, {
+    main_title: 'راهنمای کار با بخش اتوبوس',
+    sub_title: 'برای مشاهده هزینه سفر به شهر مورد نظر خود لطفا مراحل زیر را دنبال کنید',
+    img: 'img/other-bus.png',
+    item_one: ' بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا ',
+    item_two: ' بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا ',
+    item_three: ' بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا ',
+    item_four: ' بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا ',
+    item_five: ' بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا '  
+  },
+  {
     id: 2,
-    name: 'Adam Bradleyson',
-    lastText: 'I should buy a boat',
-    face: 'img/adam.jpg'
-  }, {
-    id: 3,
-    name: 'Perry Governor',
-    lastText: 'Look at my mukluks!',
-    face: 'img/perry.png'
-  }, {
-    id: 4,
-    name: 'Mike Harrington',
-    lastText: 'This is wicked good ice cream.',
-    face: 'img/mike.png'
-  }];
+    main_title: 'راهنمای کار با بخش قطار',
+    sub_title: 'برای مشاهده هزینه سفر به شهر مورد نظر خود لطفا مراحل زیر را دنبال کنید',
+    img: 'img/train.png',
+    item_one: ' بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا ',
+    item_two: ' بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا ',
+    item_three: ' بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا ',
+    item_four: ' بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا ',
+    item_five: ' بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا  بلا بلا بلا '  
+  }
+  ];
 
   return {
     all: function() {
-      return chats;
+      return questionList;
     },
-    remove: function(chat) {
-      chats.splice(chats.indexOf(chat), 1);
-    },
-    get: function(chatId) {
-      for (var i = 0; i < chats.length; i++) {
-        if (chats[i].id === parseInt(chatId)) {
-          return chats[i];
+    get: function(questionId) {
+      for (var i = 0; i < questionList.length; i++) {
+        if (questionList[i].id === parseInt(questionId)) {
+          return questionList[i];
         }
       }
       return null;

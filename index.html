@@ -2,11 +2,13 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width, height=device-height, target-densitydpi=device-dpi" />
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, width=device-width, height=device-height" />
+    <meta http-equiv="Content-Security-Policy" content="default-src *; script-src 'self' 'unsafe-inline' 'unsafe-eval' *; style-src  'self' 'unsafe-inline' *">
     <title></title>
 
     <link href="lib/ionic/css/ionic.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
+    <link href="css/trainStyle.css" rel="stylesheet">
 
     <!-- IF using Sass (run gulp sass first), then uncomment below and remove the CSS includes above
     <link href="css/ionic.app.css" rel="stylesheet">
@@ -16,6 +18,7 @@
     <script src="lib/ionic/js/ionic.bundle.js"></script>
     <!-- ng-cordova plugins -->
     <script src="lib/ngCordova/dist/ng-cordova.js"></script>
+    <script src="../plugins/com.telerik.plugins.nativepagetransitions/www/ionic-native-transitions.min.js"></script>
     <!-- cordova script (this will be a 404 during development) -->
     <script src="cordova.js"></script>
 
@@ -24,6 +27,8 @@
     <script type="text/javascript" src="js/jquery.hideseek.min.js"></script>
     <script src="js/app.js"></script>
     <script src="js/controllers.js"></script>
+    <script src="js/my-directive.js"></script>
+    <script src="js/services.js"></script> 
   </head>
   <body ng-app="starter">
       

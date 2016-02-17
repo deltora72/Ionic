@@ -1,0 +1,151 @@
+<ion-view view-title="هزینه مسافرت با اتوبوس">
+
+
+
+    
+  <ion-pane id="bus-page">
+        
+      <ion-content>
+<!------------------select items--------------------->
+
+<div class="city-selection-container row responsive-lg">  
+<!-----------------------------Orientation list codes--------------------------------->  
+<div class="list begin col">
+<span class="city-select-label">شهر مبدا سفر</span>
+  <label class="item item-input item-select">
+    <div class="input-label">
+      لطفا شهر مبدا را انتخاب کنید
+    </div>
+    <p id="ori-result"></p>
+  </label>
+    <div class="city-selector-container">
+        <label class="item city-search item-input">
+            <input id="ori-search" type="search" placeholder="جستجو" autofocus name="search" data-list=".ori">
+            <i class="icon ion-search placeholder-icon"></i>
+        </label>
+        <div class="ori col">
+            <div class="item item-divider row responsive-lg"><span class="state-title">استان آذربایجان شرقی</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">استان آذربایجان غربی</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">استان اردبیل</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">استان اصفهان</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">استان البرز</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">استان ایلام</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">استان بوشهر</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">استان تهران</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">استان چهارمحال و بختیاری</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">استان خراسان جنوبی</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">استان خراسان رضوی</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">استان خراسان شمالی</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">استان خوزستان</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">استان زنجان</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">استان سمنان</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">استان سیستان و بلوچستان</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">استان فارس</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">استان قزوین</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">استان قم</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">استان کردستان</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">استان کرمان</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">استان کرمانشاه</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">استان کهگیلویه و بویراحمد</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">استان گلستان</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">استان گیلان</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">استان لرستان</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">استان مازندران</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">استان مرکزی</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">استان هرمزگان</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">استان همدان</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">استان یزد</span></div>
+        </div>
+    </div>       
+</div> 
+<!-----------------------------Destination list codes--------------------------------->  
+<div class="list end col">
+<span class="city-select-label">شهر مقصد سفر</span>
+  <label class="item item-input item-select">
+    <div class="input-label">
+     لطفا شهر مقصد را انتخاب کنید
+    </div>
+    <p id="des-result"></p>
+  </label>
+    <div class="city-selector-container">
+        <label class="item city-search item-input">
+            <input id="des-search" type="search" placeholder="جستجو" autofocus name="search" data-list=".des">
+            <i class="icon ion-search placeholder-icon"></i>
+        </label>
+        <div class="des col">
+            <div class="item item-divider row responsive-lg"><span class="state-title">استان آذربایجان شرقی</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">استان آذربایجان غربی</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">استان اردبیل</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">استان اصفهان</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">استان البرز</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">استان ایلام</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">استان بوشهر</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">استان تهران</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">استان چهارمحال و بختیاری</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">استان خراسان جنوبی</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">استان خراسان رضوی</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">استان خراسان شمالی</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">استان خوزستان</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">استان زنجان</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">استان سمنان</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">استان سیستان و بلوچستان</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">استان فارس</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">استان قزوین</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">استان قم</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">استان کردستان</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">استان کرمان</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">استان کرمانشاه</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">استان کهگیلویه و بویراحمد</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">استان گلستان</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">استان گیلان</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">استان لرستان</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">استان مازندران</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">استان مرکزی</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">استان هرمزگان</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">استان همدان</span></div>
+            <div class="item item-divider row responsive-lg"><span class="state-title">استان یزد</span></div>
+        </div>
+    </div>
+</div>
+<!------------------select items---------------------> 
+    
+</div>         
+        
+<div id="find-bus-button-container">
+     <button id="find-bus" class="button button-block button-positive" ng-controller="resultsModal" ng-click="openModal()">نمایش قیمت بلیط</button> 
+</div>
+<!------------------Results card contents--------------------->          
+<script id="bus-results.html" type="text/ng-template">
+  <ion-modal-view>
+ 
+    <div class="card results-card">
+        <div class="item item-divider divider-header">
+            <span id="results-header-text"></span>
+            <i id="modal-return" ng-click="closeModal()" class="icon ion-arrow-left-c"></i>
+        </div>
+
+            <img class="bus-image" src="img/bus-icon-two.png">
+
+            <div class="item item-divider results-divider"></div>
+
+            <div class="item item-text-wrap row responsive-lg">
+                <div id="bus-result-container"></div>
+            </div>
+        
+    </div>
+      
+  </ion-modal-view>
+</script>
+<!-----------------------select items--------------------------> 
+      
+      </ion-content>
+        
+<!--
+    <div class="bar bar-footer bar-assertive">
+        <div class="title">تمامی حقوق این برنامه محفوظ می باشد</div>
+    </div>
+-->
+        
+    </ion-pane>     
+      
+</ion-view>

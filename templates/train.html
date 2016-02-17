@@ -1,0 +1,95 @@
+<ion-view view-title="مسافرت با قطار">
+    
+    <ion-pane id="train-page">
+        
+        <ion-content>
+            
+
+<!------------------select items--------------------->
+
+<div class="train-city-selection-container row responsive-lg">  
+<!-----------------------------Orientation list codes--------------------------------->  
+<div class="list train-begin col">
+  <span class="train-city-select-label">شهر مبدا سفر</span>
+  <label class="item item-input train-item-select">
+    <div class="train-input input-label">
+      لطفا شهر مبدا را انتخاب کنید
+    </div>
+    <p id="train-ori-result"></p>
+  </label>
+    <div class="train-city-selector-container">
+        <label class="item train-city-search item-input">
+            <input id="train-ori-search" type="search" placeholder="جستجو" autofocus name="search" data-list=".train-ori">
+            <i class="icon ion-search placeholder-icon"></i>
+        </label>
+        <div class="train-ori col">
+        </div>
+    </div>       
+</div> 
+<!-----------------------------Destination list codes--------------------------------->  
+<div class="list train-end col">
+    <span class="train-city-select-label">شهر مقصد سفر</span>
+    <label class="item item-input train-item-select">
+        <div class="train-input input-label">
+         لطفا شهر مقصد را انتخاب کنید
+        </div>
+        <p id="train-des-result"></p>
+    </label>
+    <div class="train-city-selector-container">
+        <label class="item train-city-search item-input">
+            <input id="train-des-search" type="search" placeholder="جستجو" autofocus name="search" data-list=".train-des">
+            <i class="icon ion-search placeholder-icon"></i>
+        </label>
+        <div class="train-des col">
+        </div>
+    </div>
+</div>
+<!------------------train type selector---------------------> 
+<div class="col" id="train-type-selection-container">  
+    <span class="train-city-select-label">نوع قطار</span>
+    <label class="item item-input train-item-select">
+        <div class="train-input input-label">
+         لطفا نوع قطار مورد نظر خود را انتخاب کنید
+        </div>
+        <p id="train-type-result"></p>
+    </label>
+    <ul class="list"></ul> 
+</div>
+ <!------------------select items--------------------->   
+</div>         
+
+           
+<div id="find-train-button-container">
+     <button id="find-train" class="button button-block button-positive" ng-controller="trainResultsModal" ng-click="openModal()">نمایش قیمت بلیط</button> 
+</div>
+
+<!------------------Results card contents------------------->        
+<script id="train-results.html" type="text/ng-template">
+  <ion-modal-view>
+ 
+    <div class="card train-results-card">
+        <div class="item item-divider train-divider-header">
+            <span id="train-results-header-text"></span>
+            <i id="modal-return" ng-click="closeModal()" class="icon ion-arrow-left-c"></i>
+        </div>
+
+            <img class="train-image" src="img/train-icon.png">
+
+            <div class="item item-divider train-results-divider"></div>
+
+            <div class="item train-item-text-wrap row responsive-lg">
+                <div id="train-result-container"></div>
+            </div>
+        
+    </div>
+      
+  </ion-modal-view>
+</script>
+<!------------------Results card contents------------------->          
+      
+            
+        </ion-content>
+        
+    </ion-pane>
+    
+</ion-view>

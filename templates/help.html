@@ -1,0 +1,10 @@
+<ion-view view-title="راهنمای برنامه">
+  <ion-content id="help-page">
+    <ion-list>
+      <ion-item class="help-item col" ng-repeat="question in questionList" href="#/app/help/{{ question.id }}">
+          <img class="help-menu-image" ng-src="{{ question.img }}" />
+          <span class="help-menu-title">{{ question.main_title }}</span>
+      </ion-item>
+    </ion-list>
+  </ion-content>
+</ion-view>
