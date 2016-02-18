@@ -110,7 +110,9 @@ angular.module('starter.controllers', [])
     
     
     
-    
+//  $scope.stopScroll = function() {
+//      alert('paaaayyiiiin!');
+//  };    
     
     
     
